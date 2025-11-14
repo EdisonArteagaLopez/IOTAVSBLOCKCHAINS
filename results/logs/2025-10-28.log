@@ -1,0 +1,1502 @@
+[2025-10-28T15:37:22.562Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9509421
+}
+[2025-10-28T15:37:22.563Z] [INFO] Sending 50 transactions...
+[2025-10-28T15:37:38.129Z] [INFO] [1/50] TX: 0xf2207ed0... | Latency: 15565ms | Gas: 21000
+[2025-10-28T15:37:50.622Z] [INFO] [2/50] TX: 0x2680becb... | Latency: 10492ms | Gas: 21000
+[2025-10-28T15:38:03.548Z] [INFO] [3/50] TX: 0x33e36460... | Latency: 10924ms | Gas: 21000
+[2025-10-28T15:38:16.321Z] [INFO] [4/50] TX: 0x72861aa5... | Latency: 10771ms | Gas: 21000
+[2025-10-28T15:38:29.098Z] [INFO] [5/50] TX: 0xe9eb9bd9... | Latency: 10776ms | Gas: 21000
+[2025-10-28T15:38:37.573Z] [INFO] [6/50] TX: 0x403821eb... | Latency: 6474ms | Gas: 21000
+[2025-10-28T15:38:54.009Z] [INFO] [7/50] TX: 0xd0daac2a... | Latency: 14434ms | Gas: 21000
+[2025-10-28T15:39:02.512Z] [INFO] [8/50] TX: 0xf7a8d198... | Latency: 6501ms | Gas: 21000
+[2025-10-28T15:39:15.120Z] [INFO] [9/50] TX: 0xd9876d43... | Latency: 10604ms | Gas: 21000
+[2025-10-28T15:39:28.319Z] [INFO] [10/50] TX: 0x7dde64e4... | Latency: 11198ms | Gas: 21000
+[2025-10-28T15:39:40.894Z] [INFO] [11/50] TX: 0xaf9b6244... | Latency: 10573ms | Gas: 21000
+[2025-10-28T15:39:53.601Z] [INFO] [12/50] TX: 0x7c1991a0... | Latency: 10707ms | Gas: 21000
+[2025-10-28T15:40:02.107Z] [INFO] [13/50] TX: 0x28464ac0... | Latency: 6503ms | Gas: 21000
+[2025-10-28T15:40:14.708Z] [INFO] [14/50] TX: 0x22ec50a4... | Latency: 10601ms | Gas: 21000
+[2025-10-28T15:40:27.255Z] [INFO] [15/50] TX: 0x9090cb62... | Latency: 10547ms | Gas: 21000
+[2025-10-28T15:40:39.362Z] [INFO] [16/50] TX: 0xdba84be3... | Latency: 10106ms | Gas: 21000
+[2025-10-28T15:51:29.406Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9509492
+}
+[2025-10-28T15:51:29.406Z] [INFO] Sending 50 transactions...
+[2025-10-28T15:58:05.945Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9509525
+}
+[2025-10-28T15:58:05.946Z] [INFO] Sending 50 transactions...
+[2025-10-28T15:58:17.319Z] [INFO] [1/50] TX: 0x0b16d941... | Latency: 11372ms | Gas: 21000
+[2025-10-28T15:58:25.774Z] [INFO] [2/50] TX: 0x794d0b34... | Latency: 6455ms | Gas: 21000
+[2025-10-28T15:58:38.407Z] [INFO] [3/50] TX: 0xee5526b8... | Latency: 10630ms | Gas: 21000
+[2025-10-28T15:58:50.905Z] [INFO] [4/50] TX: 0x016d1cfb... | Latency: 10497ms | Gas: 21000
+[2025-10-28T15:59:03.706Z] [INFO] [5/50] TX: 0x06d612c2... | Latency: 10799ms | Gas: 21000
+[2025-10-28T15:59:16.813Z] [INFO] [6/50] TX: 0x625db428... | Latency: 11105ms | Gas: 21000
+[2025-10-28T15:59:29.372Z] [INFO] [7/50] TX: 0xe7e600b0... | Latency: 10556ms | Gas: 21000
+[2025-10-28T15:59:37.800Z] [INFO] [8/50] TX: 0x616d5fae... | Latency: 6425ms | Gas: 21000
+[2025-10-28T15:59:50.504Z] [INFO] [9/50] TX: 0x8decc26f... | Latency: 10700ms | Gas: 21000
+[2025-10-28T16:00:15.790Z] [INFO] [10/50] TX: 0x9a4959e8... | Latency: 23285ms | Gas: 21000
+[2025-10-28T16:00:28.592Z] [INFO] [11/50] TX: 0xa5d5417d... | Latency: 10799ms | Gas: 21000
+[2025-10-28T16:00:41.090Z] [INFO] [12/50] TX: 0xb76cc078... | Latency: 10497ms | Gas: 21000
+[2025-10-28T16:00:53.631Z] [INFO] [13/50] TX: 0xdb8aa83f... | Latency: 10539ms | Gas: 21000
+[2025-10-28T16:01:01.974Z] [INFO] [14/50] TX: 0xd565635a... | Latency: 6343ms | Gas: 21000
+[2025-10-28T16:01:14.679Z] [INFO] [15/50] TX: 0x1b987a4b... | Latency: 10703ms | Gas: 21000
+[2025-10-28T16:01:27.448Z] [INFO] [16/50] TX: 0xac3179c7... | Latency: 10769ms | Gas: 21000
+[2025-10-28T16:01:40.381Z] [INFO] [17/50] TX: 0xfc5f4c57... | Latency: 10932ms | Gas: 21000
+[2025-10-28T16:01:53.585Z] [INFO] [18/50] TX: 0xa1f053e7... | Latency: 11203ms | Gas: 21000
+[2025-10-28T16:02:01.783Z] [INFO] [19/50] TX: 0xeb6a4387... | Latency: 6196ms | Gas: 21000
+[2025-10-28T16:02:14.276Z] [INFO] [20/50] TX: 0xa73d4139... | Latency: 10492ms | Gas: 21000
+[2025-10-28T16:02:39.723Z] [INFO] [21/50] TX: 0x22ba9392... | Latency: 23444ms | Gas: 21000
+[2025-10-28T16:02:52.465Z] [INFO] [22/50] TX: 0xeb089132... | Latency: 10741ms | Gas: 21000
+[2025-10-28T16:03:04.965Z] [INFO] [23/50] TX: 0xf84864d4... | Latency: 10499ms | Gas: 21000
+[2025-10-28T16:03:17.215Z] [INFO] [24/50] TX: 0x5b02abfe... | Latency: 10250ms | Gas: 21000
+[2025-10-28T16:03:25.811Z] [INFO] [25/50] TX: 0x2f64b494... | Latency: 6594ms | Gas: 21000
+[2025-10-28T16:03:38.553Z] [INFO] [26/50] TX: 0xe571029e... | Latency: 10740ms | Gas: 21000
+[2025-10-28T16:03:51.348Z] [INFO] [27/50] TX: 0xcd06136d... | Latency: 10793ms | Gas: 21000
+[2025-10-28T16:04:04.055Z] [INFO] [28/50] TX: 0x51783266... | Latency: 10707ms | Gas: 21000
+[2025-10-28T16:04:16.851Z] [INFO] [29/50] TX: 0x895666bd... | Latency: 10794ms | Gas: 21000
+[2025-10-28T16:04:29.297Z] [INFO] [30/50] TX: 0x92e7ff09... | Latency: 10443ms | Gas: 21000
+[2025-10-28T16:04:41.994Z] [INFO] [31/50] TX: 0x6cc0546a... | Latency: 10696ms | Gas: 21000
+[2025-10-28T16:04:50.291Z] [INFO] [32/50] TX: 0x18d515bb... | Latency: 6295ms | Gas: 21000
+[2025-10-28T16:05:15.210Z] [INFO] [33/50] TX: 0x49bd6f21... | Latency: 22917ms | Gas: 21000
+[2025-10-28T16:05:27.563Z] [INFO] [34/50] TX: 0x5f933367... | Latency: 10352ms | Gas: 21000
+[2025-10-28T16:05:39.833Z] [INFO] [35/50] TX: 0xa93cf8fb... | Latency: 10268ms | Gas: 21000
+[2025-10-28T16:05:52.392Z] [INFO] [36/50] TX: 0x9ad00082... | Latency: 10557ms | Gas: 21000
+[2025-10-28T16:06:05.174Z] [INFO] [37/50] TX: 0x146521b0... | Latency: 10779ms | Gas: 21000
+[2025-10-28T16:06:13.691Z] [INFO] [38/50] TX: 0xf1fa7bba... | Latency: 6516ms | Gas: 21000
+[2025-10-28T16:06:26.184Z] [INFO] [39/50] TX: 0x275b3877... | Latency: 10491ms | Gas: 21000
+[2025-10-28T16:06:38.780Z] [INFO] [40/50] TX: 0x5f4aa79d... | Latency: 10594ms | Gas: 21000
+[2025-10-28T16:06:51.477Z] [INFO] [41/50] TX: 0x36eb9554... | Latency: 10695ms | Gas: 21000
+[2025-10-28T16:07:04.338Z] [INFO] [42/50] TX: 0xa82d2826... | Latency: 10859ms | Gas: 21000
+[2025-10-28T16:07:17.073Z] [INFO] [43/50] TX: 0x8a8696de... | Latency: 10733ms | Gas: 21000
+[2025-10-28T16:07:29.583Z] [INFO] [44/50] TX: 0x4099f797... | Latency: 10508ms | Gas: 21000
+[2025-10-28T16:07:37.968Z] [INFO] [45/50] TX: 0xce4d3115... | Latency: 6382ms | Gas: 21000
+[2025-10-28T16:07:50.871Z] [INFO] [46/50] TX: 0x7cc6833c... | Latency: 10902ms | Gas: 21000
+[2025-10-28T16:08:03.664Z] [INFO] [47/50] TX: 0x31259364... | Latency: 10792ms | Gas: 21000
+[2025-10-28T16:08:16.266Z] [INFO] [48/50] TX: 0xd28d5029... | Latency: 10599ms | Gas: 21000
+[2025-10-28T16:08:28.964Z] [INFO] [49/50] TX: 0x0373b555... | Latency: 10696ms | Gas: 21000
+[2025-10-28T16:08:37.357Z] [INFO] [50/50] TX: 0x480916ee... | Latency: 6391ms | Gas: 21000
+[2025-10-28T16:08:39.833Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133112892"
+}
+[2025-10-28T16:08:39.833Z] [INFO] Sending 50 blocks...
+[2025-10-28T16:08:39.833Z] [INFO] [1/50] Block: 4b13b0c6de... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:40.835Z] [INFO] [2/50] Block: 6c4ae33f47... | Latency: 1ms | Confirmed: true
+[2025-10-28T16:08:41.835Z] [INFO] [3/50] Block: 9e120415da... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:42.836Z] [INFO] [4/50] Block: 2b8a0ff5fb... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:43.837Z] [INFO] [5/50] Block: 67a2b57b37... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:44.838Z] [INFO] [6/50] Block: f5ef7d2e6c... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:45.839Z] [INFO] [7/50] Block: 7501bd533b... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:46.840Z] [INFO] [8/50] Block: 9028351fca... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:47.841Z] [INFO] [9/50] Block: 3be145639e... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:48.842Z] [INFO] [10/50] Block: e2c9f026c2... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:49.844Z] [INFO] [11/50] Block: d76a612224... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:50.844Z] [INFO] [12/50] Block: 7f94f62db6... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:51.846Z] [INFO] [13/50] Block: f9c016fe94... | Latency: 1ms | Confirmed: true
+[2025-10-28T16:08:52.846Z] [INFO] [14/50] Block: 745b5ddb7c... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:53.847Z] [INFO] [15/50] Block: 78d94647d9... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:54.848Z] [INFO] [16/50] Block: 7b4dafb77a... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:55.850Z] [INFO] [17/50] Block: 54af4acc4e... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:56.850Z] [INFO] [18/50] Block: 87b8fb9600... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:57.851Z] [INFO] [19/50] Block: 8234e86fab... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:58.853Z] [INFO] [20/50] Block: 8b8331e986... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:08:59.854Z] [INFO] [21/50] Block: 3c0ef9284b... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:00.856Z] [INFO] [22/50] Block: d948adb999... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:01.857Z] [INFO] [23/50] Block: f4d9c7a556... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:02.859Z] [INFO] [24/50] Block: 905acb69d2... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:03.860Z] [INFO] [25/50] Block: 31316f4de4... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:04.862Z] [INFO] [26/50] Block: 5474f1d345... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:05.863Z] [INFO] [27/50] Block: 5d95a4ccf9... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:06.865Z] [INFO] [28/50] Block: ba81c8b575... | Latency: 1ms | Confirmed: true
+[2025-10-28T16:09:07.866Z] [INFO] [29/50] Block: 58c357c5ce... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:08.866Z] [INFO] [30/50] Block: 787c08c798... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:09.868Z] [INFO] [31/50] Block: 1fe52072a6... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:10.869Z] [INFO] [32/50] Block: 084608ebac... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:11.870Z] [INFO] [33/50] Block: 58364761de... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:12.871Z] [INFO] [34/50] Block: a77a08c201... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:13.873Z] [INFO] [35/50] Block: 403b883dd6... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:14.873Z] [INFO] [36/50] Block: 41f2fe971a... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:15.874Z] [INFO] [37/50] Block: ca78bd7b61... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:16.875Z] [INFO] [38/50] Block: db75c029c0... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:17.876Z] [INFO] [39/50] Block: dc18ecd5d8... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:18.877Z] [INFO] [40/50] Block: f40cab2d08... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:19.879Z] [INFO] [41/50] Block: b6a6bbe34b... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:20.880Z] [INFO] [42/50] Block: 76e2f7ab78... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:21.882Z] [INFO] [43/50] Block: 86c5bb8401... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:22.883Z] [INFO] [44/50] Block: 97b9420865... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:23.884Z] [INFO] [45/50] Block: 36e6f8073a... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:24.885Z] [INFO] [46/50] Block: 91fe54cd7d... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:25.887Z] [INFO] [47/50] Block: 265e47717f... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:26.888Z] [INFO] [48/50] Block: ccdd60b80e... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:27.890Z] [INFO] [49/50] Block: c5f5043081... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:09:28.891Z] [INFO] [50/50] Block: 742e0ae704... | Latency: 0ms | Confirmed: true
+[2025-10-28T16:24:03.074Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9509654
+}
+[2025-10-28T16:24:03.074Z] [INFO] Sending 50 transactions...
+[2025-10-28T16:24:14.338Z] [INFO] [1/50] TX: 0xd1821d3a... | Latency: 11263ms | Gas: 21000
+[2025-10-28T16:24:26.886Z] [INFO] [2/50] TX: 0xfb15bb35... | Latency: 10547ms | Gas: 21000
+[2025-10-28T16:24:39.617Z] [INFO] [3/50] TX: 0x7e64249b... | Latency: 10730ms | Gas: 21000
+[2025-10-28T16:24:52.431Z] [INFO] [4/50] TX: 0xb1d55a02... | Latency: 10812ms | Gas: 21000
+[2025-10-28T16:25:04.924Z] [INFO] [5/50] TX: 0x3c057f63... | Latency: 10490ms | Gas: 21000
+[2025-10-28T16:25:13.067Z] [INFO] [6/50] TX: 0x52db914e... | Latency: 6141ms | Gas: 21000
+[2025-10-28T16:25:29.793Z] [INFO] [7/50] TX: 0x07f1e95d... | Latency: 14725ms | Gas: 21000
+[2025-10-28T16:25:38.198Z] [INFO] [8/50] TX: 0x56b82acc... | Latency: 6404ms | Gas: 21000
+[2025-10-28T16:25:51.005Z] [INFO] [9/50] TX: 0x4d2c0134... | Latency: 10805ms | Gas: 21000
+[2025-10-28T16:26:03.908Z] [INFO] [10/50] TX: 0xe69fa717... | Latency: 10900ms | Gas: 21000
+[2025-10-28T16:26:16.196Z] [INFO] [11/50] TX: 0x2064c271... | Latency: 10287ms | Gas: 21000
+[2025-10-28T16:26:28.887Z] [INFO] [12/50] TX: 0x60ba294f... | Latency: 10690ms | Gas: 21000
+[2025-10-28T16:26:41.285Z] [INFO] [13/50] TX: 0x8a887c1a... | Latency: 10396ms | Gas: 21000
+[2025-10-28T16:26:49.718Z] [INFO] [14/50] TX: 0xbddc9ac4... | Latency: 6430ms | Gas: 21000
+[2025-10-28T16:27:02.122Z] [INFO] [15/50] TX: 0xba177c2b... | Latency: 10404ms | Gas: 21000
+[2025-10-28T16:27:18.962Z] [INFO] [16/50] TX: 0xf9818d5d... | Latency: 14836ms | Gas: 21000
+[2025-10-28T16:27:27.423Z] [INFO] [17/50] TX: 0x0d75b206... | Latency: 6459ms | Gas: 21000
+[2025-10-28T16:27:40.121Z] [INFO] [18/50] TX: 0xb64ba237... | Latency: 10697ms | Gas: 21000
+[2025-10-28T16:27:52.760Z] [INFO] [19/50] TX: 0xb992e4cc... | Latency: 10637ms | Gas: 21000
+[2025-10-28T16:28:05.458Z] [INFO] [20/50] TX: 0xdf607258... | Latency: 10695ms | Gas: 21000
+[2025-10-28T16:28:14.054Z] [INFO] [21/50] TX: 0x14a37d9b... | Latency: 6594ms | Gas: 21000
+[2025-10-28T16:28:26.655Z] [INFO] [22/50] TX: 0xdf173350... | Latency: 10601ms | Gas: 21000
+[2025-10-28T16:28:39.149Z] [INFO] [23/50] TX: 0x8f990b44... | Latency: 10492ms | Gas: 21000
+[2025-10-28T16:28:51.793Z] [INFO] [24/50] TX: 0x8a00731b... | Latency: 10643ms | Gas: 21000
+[2025-10-28T16:29:04.026Z] [INFO] [25/50] TX: 0xedb4599f... | Latency: 10232ms | Gas: 21000
+[2025-10-28T16:29:16.525Z] [INFO] [26/50] TX: 0x28716bf1... | Latency: 10498ms | Gas: 21000
+[2025-10-28T16:29:29.018Z] [INFO] [27/50] TX: 0x7303299c... | Latency: 10491ms | Gas: 21000
+[2025-10-28T16:29:37.513Z] [INFO] [28/50] TX: 0x80abd832... | Latency: 6493ms | Gas: 21000
+[2025-10-28T16:29:50.113Z] [INFO] [29/50] TX: 0x899fde9a... | Latency: 10599ms | Gas: 21000
+[2025-10-28T16:30:15.508Z] [INFO] [30/50] TX: 0x939b0481... | Latency: 23394ms | Gas: 21000
+[2025-10-28T16:30:28.206Z] [INFO] [31/50] TX: 0x141e0634... | Latency: 10696ms | Gas: 21000
+[2025-10-28T16:30:40.699Z] [INFO] [32/50] TX: 0x3bf49eb4... | Latency: 10493ms | Gas: 21000
+[2025-10-28T17:07:14.728Z] [INFO] [33/50] TX: 0x7e302ac7... | Latency: 2192027ms | Gas: 21000
+[2025-10-28T17:07:27.841Z] [INFO] [34/50] TX: 0x8f7aa2bb... | Latency: 11110ms | Gas: 21000
+[2025-10-28T17:07:40.732Z] [INFO] [35/50] TX: 0xa4b6f953... | Latency: 10888ms | Gas: 21000
+[2025-10-28T17:07:49.651Z] [INFO] [36/50] TX: 0x137948bb... | Latency: 6918ms | Gas: 21000
+[2025-10-28T17:08:02.126Z] [INFO] [37/50] TX: 0xccccf68b... | Latency: 10474ms | Gas: 21000
+[2025-10-28T17:08:14.618Z] [INFO] [38/50] TX: 0x5e57b3d5... | Latency: 10491ms | Gas: 21000
+[2025-10-28T17:08:27.719Z] [INFO] [39/50] TX: 0x13d5e9cf... | Latency: 11099ms | Gas: 21000
+[2025-10-28T17:08:40.724Z] [INFO] [40/50] TX: 0x69b64eb9... | Latency: 11002ms | Gas: 21000
+[2025-10-28T17:08:53.541Z] [INFO] [41/50] TX: 0x3836e5f7... | Latency: 10814ms | Gas: 21000
+[2025-10-28T17:09:06.023Z] [INFO] [42/50] TX: 0x9bd60feb... | Latency: 10482ms | Gas: 21000
+[2025-10-28T17:09:14.522Z] [INFO] [43/50] TX: 0x2c0be79b... | Latency: 6497ms | Gas: 21000
+[2025-10-28T17:09:27.214Z] [INFO] [44/50] TX: 0x70057899... | Latency: 10691ms | Gas: 21000
+[2025-10-28T17:09:40.117Z] [INFO] [45/50] TX: 0xf81afc90... | Latency: 10901ms | Gas: 21000
+[2025-10-28T17:09:52.769Z] [INFO] [46/50] TX: 0xafc7191a... | Latency: 10652ms | Gas: 21000
+[2025-10-28T17:10:05.307Z] [INFO] [47/50] TX: 0x497d23f1... | Latency: 10537ms | Gas: 21000
+[2025-10-28T17:10:13.914Z] [INFO] [48/50] TX: 0x94e709f6... | Latency: 6604ms | Gas: 21000
+[2025-10-28T17:10:30.907Z] [INFO] [49/50] TX: 0x49565831... | Latency: 14992ms | Gas: 21000
+[2025-10-28T17:10:39.412Z] [INFO] [50/50] TX: 0xb88eb949... | Latency: 6502ms | Gas: 21000
+[2025-10-28T17:10:41.517Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T17:10:42.690Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133129485",
+  "sdkMode": "Real transactions"
+}
+[2025-10-28T17:10:42.690Z] [INFO] Sending 50 blocks...
+[2025-10-28T17:10:42.691Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:42.691Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:42.691Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:42.754Z] [INFO] [1/50] Block: cface29169... | Latency: 63ms | Confirmed: true
+[2025-10-28T17:10:43.754Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:43.754Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:43.754Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:43.812Z] [INFO] [2/50] Block: b1ba2b7345... | Latency: 58ms | Confirmed: true
+[2025-10-28T17:10:44.812Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:44.812Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:44.812Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:44.939Z] [INFO] [3/50] Block: cbf88089ea... | Latency: 127ms | Confirmed: true
+[2025-10-28T17:10:45.939Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:45.940Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:45.940Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:46.060Z] [INFO] [4/50] Block: 5b7d5ca287... | Latency: 120ms | Confirmed: true
+[2025-10-28T17:10:47.061Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:47.062Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:47.062Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:47.137Z] [INFO] [5/50] Block: 66779145e2... | Latency: 75ms | Confirmed: true
+[2025-10-28T17:10:48.138Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:48.138Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:48.138Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:48.267Z] [INFO] [6/50] Block: e83019cb21... | Latency: 129ms | Confirmed: true
+[2025-10-28T17:10:49.268Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:49.268Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:49.268Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:49.326Z] [INFO] [7/50] Block: fd3d829196... | Latency: 58ms | Confirmed: true
+[2025-10-28T17:10:50.326Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:50.327Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:50.327Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:50.404Z] [INFO] [8/50] Block: c7f3b1b07f... | Latency: 77ms | Confirmed: true
+[2025-10-28T17:10:51.405Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:51.406Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:51.406Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:51.535Z] [INFO] [9/50] Block: aba399acf8... | Latency: 129ms | Confirmed: true
+[2025-10-28T17:10:52.537Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:52.537Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:52.537Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:52.660Z] [INFO] [10/50] Block: a2e17197d8... | Latency: 122ms | Confirmed: true
+[2025-10-28T17:10:53.660Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:53.661Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:53.661Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:53.735Z] [INFO] [11/50] Block: dbf782bb65... | Latency: 74ms | Confirmed: true
+[2025-10-28T17:10:54.737Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:54.737Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:54.737Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:54.829Z] [INFO] [12/50] Block: c6c838c6c5... | Latency: 92ms | Confirmed: true
+[2025-10-28T17:10:55.830Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:55.831Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:55.831Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:55.889Z] [INFO] [13/50] Block: d773c22235... | Latency: 58ms | Confirmed: true
+[2025-10-28T17:10:56.890Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:56.891Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:56.891Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:56.952Z] [INFO] [14/50] Block: cfe9938935... | Latency: 61ms | Confirmed: true
+[2025-10-28T17:10:57.953Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:57.954Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:57.954Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:58.006Z] [INFO] [15/50] Block: 7b33e280dc... | Latency: 52ms | Confirmed: true
+[2025-10-28T17:10:59.007Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:10:59.008Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:10:59.008Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:10:59.126Z] [INFO] [16/50] Block: e0fd64ca88... | Latency: 118ms | Confirmed: true
+[2025-10-28T17:11:00.127Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:00.128Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:00.128Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:00.253Z] [INFO] [17/50] Block: 34b8361c49... | Latency: 125ms | Confirmed: true
+[2025-10-28T17:11:01.254Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:01.255Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:01.255Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:01.380Z] [INFO] [18/50] Block: f3d019a46a... | Latency: 125ms | Confirmed: true
+[2025-10-28T17:11:02.382Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:02.382Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:02.382Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:02.524Z] [INFO] [19/50] Block: bcd09c4aa1... | Latency: 142ms | Confirmed: true
+[2025-10-28T17:11:03.525Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:03.525Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:03.525Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:03.673Z] [INFO] [20/50] Block: 98c720c1cd... | Latency: 148ms | Confirmed: true
+[2025-10-28T17:11:04.673Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:04.674Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:04.674Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:04.764Z] [INFO] [21/50] Block: 980004b2d3... | Latency: 90ms | Confirmed: true
+[2025-10-28T17:11:05.766Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:05.766Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:05.766Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:05.863Z] [INFO] [22/50] Block: 9a93fad9ae... | Latency: 97ms | Confirmed: true
+[2025-10-28T17:11:06.865Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:06.865Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:06.865Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:06.960Z] [INFO] [23/50] Block: bf1970c874... | Latency: 95ms | Confirmed: true
+[2025-10-28T17:11:07.961Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:07.961Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:07.961Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:08.072Z] [INFO] [24/50] Block: f2670ae7ae... | Latency: 111ms | Confirmed: true
+[2025-10-28T17:11:09.072Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:09.073Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:09.073Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:09.161Z] [INFO] [25/50] Block: 707969bb6e... | Latency: 88ms | Confirmed: true
+[2025-10-28T17:11:10.162Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:10.163Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:10.163Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:10.291Z] [INFO] [26/50] Block: d023f4817b... | Latency: 128ms | Confirmed: true
+[2025-10-28T17:11:11.293Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:11.293Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:11.293Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:11.354Z] [INFO] [27/50] Block: e081263647... | Latency: 61ms | Confirmed: true
+[2025-10-28T17:11:12.356Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:12.356Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:12.356Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:12.480Z] [INFO] [28/50] Block: 54a2ef37c4... | Latency: 124ms | Confirmed: true
+[2025-10-28T17:11:13.480Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:13.481Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:13.481Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:13.561Z] [INFO] [29/50] Block: 76709baac5... | Latency: 80ms | Confirmed: true
+[2025-10-28T17:11:14.562Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:14.563Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:14.563Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:14.615Z] [INFO] [30/50] Block: 157e8ca6f8... | Latency: 52ms | Confirmed: true
+[2025-10-28T17:11:15.616Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:15.617Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:15.617Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:15.677Z] [INFO] [31/50] Block: 19d600866f... | Latency: 60ms | Confirmed: true
+[2025-10-28T17:11:16.678Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:16.679Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:16.679Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:16.747Z] [INFO] [32/50] Block: fe46dba211... | Latency: 68ms | Confirmed: true
+[2025-10-28T17:11:17.748Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:17.749Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:17.749Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:17.809Z] [INFO] [33/50] Block: 5effd20f49... | Latency: 60ms | Confirmed: true
+[2025-10-28T17:11:18.810Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:18.810Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:18.811Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:18.923Z] [INFO] [34/50] Block: 7f5b83be08... | Latency: 112ms | Confirmed: true
+[2025-10-28T17:11:19.923Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:19.924Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:19.924Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:20.036Z] [INFO] [35/50] Block: e368a9241e... | Latency: 112ms | Confirmed: true
+[2025-10-28T17:11:21.037Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:21.038Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:21.038Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:21.177Z] [INFO] [36/50] Block: 5bc933e4a5... | Latency: 139ms | Confirmed: true
+[2025-10-28T17:11:22.179Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:22.179Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:22.179Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:22.304Z] [INFO] [37/50] Block: 95eb3e8ad8... | Latency: 125ms | Confirmed: true
+[2025-10-28T17:11:23.305Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:23.305Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:23.305Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:23.357Z] [INFO] [38/50] Block: d7ab9fe0a0... | Latency: 52ms | Confirmed: true
+[2025-10-28T17:11:24.357Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:24.358Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:24.358Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:24.489Z] [INFO] [39/50] Block: a48cc14c64... | Latency: 131ms | Confirmed: true
+[2025-10-28T17:11:25.490Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:25.491Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:25.491Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:25.578Z] [INFO] [40/50] Block: e8d8c184bf... | Latency: 87ms | Confirmed: true
+[2025-10-28T17:11:26.579Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:26.580Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:26.580Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:26.639Z] [INFO] [41/50] Block: 3d243659ec... | Latency: 59ms | Confirmed: true
+[2025-10-28T17:11:27.639Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:27.640Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:27.640Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:27.708Z] [INFO] [42/50] Block: 721d98ce8d... | Latency: 68ms | Confirmed: true
+[2025-10-28T17:11:28.709Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:28.710Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:28.710Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:28.769Z] [INFO] [43/50] Block: d80009381f... | Latency: 59ms | Confirmed: true
+[2025-10-28T17:11:29.770Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:29.771Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:29.771Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:29.831Z] [INFO] [44/50] Block: 64c708a389... | Latency: 60ms | Confirmed: true
+[2025-10-28T17:11:30.832Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:30.833Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:30.833Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:30.903Z] [INFO] [45/50] Block: fe0123bca7... | Latency: 70ms | Confirmed: true
+[2025-10-28T17:11:31.905Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:31.905Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:31.905Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:32.013Z] [INFO] [46/50] Block: ca0ad06efd... | Latency: 108ms | Confirmed: true
+[2025-10-28T17:11:33.014Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:33.014Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:33.014Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:33.130Z] [INFO] [47/50] Block: c65d455aae... | Latency: 115ms | Confirmed: true
+[2025-10-28T17:11:34.131Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:34.132Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:34.132Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:34.223Z] [INFO] [48/50] Block: 8ec0618e0d... | Latency: 91ms | Confirmed: true
+[2025-10-28T17:11:35.225Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:35.225Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:35.225Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:35.359Z] [INFO] [49/50] Block: 6d9e672c06... | Latency: 134ms | Confirmed: true
+[2025-10-28T17:11:36.360Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T17:11:36.361Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:11:36.361Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T17:11:36.473Z] [INFO] [50/50] Block: c683f1282b... | Latency: 112ms | Confirmed: true
+[2025-10-28T17:31:42.136Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9509990
+}
+[2025-10-28T17:31:42.137Z] [INFO] Sending 50 transactions...
+[2025-10-28T17:31:53.503Z] [INFO] [1/50] TX: 0xd7b9fd5d... | Latency: 11365ms | Gas: 21000
+[2025-10-28T17:32:01.695Z] [INFO] [2/50] TX: 0x65bd5764... | Latency: 6191ms | Gas: 21000
+[2025-10-28T17:32:14.495Z] [INFO] [3/50] TX: 0x3613cb5f... | Latency: 10799ms | Gas: 21000
+[2025-10-28T17:32:27.193Z] [INFO] [4/50] TX: 0x7a2390ec... | Latency: 10695ms | Gas: 21000
+[2025-10-28T17:32:39.896Z] [INFO] [5/50] TX: 0x4c903cdd... | Latency: 10702ms | Gas: 21000
+[2025-10-28T17:32:52.394Z] [INFO] [6/50] TX: 0xe88c3b61... | Latency: 10497ms | Gas: 21000
+[2025-10-28T17:33:05.178Z] [INFO] [7/50] TX: 0x390c9dd3... | Latency: 10782ms | Gas: 21000
+[2025-10-28T17:33:17.779Z] [INFO] [8/50] TX: 0x207cf15a... | Latency: 10600ms | Gas: 21000
+[2025-10-28T17:33:26.345Z] [INFO] [9/50] TX: 0x2f51d2da... | Latency: 6565ms | Gas: 21000
+[2025-10-28T17:33:38.874Z] [INFO] [10/50] TX: 0xfe99f5b7... | Latency: 10528ms | Gas: 21000
+[2025-10-28T17:33:51.674Z] [INFO] [11/50] TX: 0x78fe794f... | Latency: 10799ms | Gas: 21000
+[2025-10-28T17:34:04.366Z] [INFO] [12/50] TX: 0xf633cea8... | Latency: 10689ms | Gas: 21000
+[2025-10-28T17:34:17.065Z] [INFO] [13/50] TX: 0x5aba93b0... | Latency: 10698ms | Gas: 21000
+[2025-10-28T17:34:25.570Z] [INFO] [14/50] TX: 0x220b0e15... | Latency: 6502ms | Gas: 21000
+[2025-10-28T17:34:38.165Z] [INFO] [15/50] TX: 0x979c5dfc... | Latency: 10594ms | Gas: 21000
+[2025-10-28T17:34:50.720Z] [INFO] [16/50] TX: 0xe26dc660... | Latency: 10553ms | Gas: 21000
+[2025-10-28T17:35:28.957Z] [INFO] [17/50] TX: 0xbfb57001... | Latency: 36236ms | Gas: 21000
+[2025-10-28T17:35:41.554Z] [INFO] [18/50] TX: 0x772d3fd3... | Latency: 10596ms | Gas: 21000
+[2025-10-28T17:36:02.750Z] [INFO] [19/50] TX: 0xae14663f... | Latency: 19195ms | Gas: 21000
+[2025-10-28T17:36:15.422Z] [INFO] [20/50] TX: 0x852aed37... | Latency: 10670ms | Gas: 21000
+[2025-10-28T17:36:27.941Z] [INFO] [21/50] TX: 0x52953b84... | Latency: 10518ms | Gas: 21000
+[2025-10-28T17:36:40.434Z] [INFO] [22/50] TX: 0x9abe2572... | Latency: 10493ms | Gas: 21000
+[2025-10-28T17:36:53.213Z] [INFO] [23/50] TX: 0x1ccaf3a7... | Latency: 10779ms | Gas: 21000
+[2025-10-28T17:37:01.733Z] [INFO] [24/50] TX: 0xeb6b0e04... | Latency: 6519ms | Gas: 21000
+[2025-10-28T17:37:14.430Z] [INFO] [25/50] TX: 0x5ce53e8a... | Latency: 10695ms | Gas: 21000
+[2025-10-28T17:38:25.906Z] [INFO] [26/50] TX: 0xec86a4da... | Latency: 69475ms | Gas: 21000
+[2025-10-28T17:38:42.804Z] [INFO] [27/50] TX: 0xaaea4780... | Latency: 14895ms | Gas: 21000
+[2025-10-28T17:38:51.092Z] [INFO] [28/50] TX: 0x48b4a7d6... | Latency: 6288ms | Gas: 21000
+[2025-10-28T17:39:16.235Z] [INFO] [29/50] TX: 0xe6e3dcd5... | Latency: 23142ms | Gas: 21000
+[2025-10-28T17:40:14.965Z] [INFO] [30/50] TX: 0xef3394de... | Latency: 56730ms | Gas: 21000
+[2025-10-28T17:41:14.051Z] [INFO] [31/50] TX: 0x6223f513... | Latency: 57083ms | Gas: 21000
+[2025-10-28T17:41:26.953Z] [INFO] [32/50] TX: 0xa63a72d6... | Latency: 10900ms | Gas: 21000
+[2025-10-28T17:41:39.651Z] [INFO] [33/50] TX: 0x81c1ca42... | Latency: 10696ms | Gas: 21000
+[2025-10-28T17:41:52.144Z] [INFO] [34/50] TX: 0x2d40e1bd... | Latency: 10491ms | Gas: 21000
+[2025-10-28T17:42:04.641Z] [INFO] [35/50] TX: 0xdbce8b5b... | Latency: 10496ms | Gas: 21000
+[2025-10-28T17:42:17.564Z] [INFO] [36/50] TX: 0xbfe7808a... | Latency: 10922ms | Gas: 21000
+[2025-10-28T17:42:30.135Z] [INFO] [37/50] TX: 0x9be49734... | Latency: 10569ms | Gas: 21000
+[2025-10-28T17:42:38.432Z] [INFO] [38/50] TX: 0xcbd63920... | Latency: 6295ms | Gas: 21000
+[2025-10-28T17:42:50.962Z] [INFO] [39/50] TX: 0xf26e283c... | Latency: 10528ms | Gas: 21000
+[2025-10-28T17:43:03.369Z] [INFO] [40/50] TX: 0xbb99e2e3... | Latency: 10405ms | Gas: 21000
+[2025-10-28T17:43:15.703Z] [INFO] [41/50] TX: 0x2420a3e2... | Latency: 10334ms | Gas: 21000
+[2025-10-28T17:43:27.992Z] [INFO] [42/50] TX: 0x387e6d3d... | Latency: 10286ms | Gas: 21000
+[2025-10-28T17:43:40.762Z] [INFO] [43/50] TX: 0x3cb39e0f... | Latency: 10766ms | Gas: 21000
+[2025-10-28T17:43:53.485Z] [INFO] [44/50] TX: 0xd274111c... | Latency: 10721ms | Gas: 21000
+[2025-10-28T17:44:06.290Z] [INFO] [45/50] TX: 0xab38d093... | Latency: 10803ms | Gas: 21000
+[2025-10-28T17:44:14.993Z] [INFO] [46/50] TX: 0x614e5b82... | Latency: 6703ms | Gas: 21000
+[2025-10-28T17:44:27.137Z] [INFO] [47/50] TX: 0x9dcb7e06... | Latency: 10143ms | Gas: 21000
+[2025-10-28T17:44:39.885Z] [INFO] [48/50] TX: 0x205ee815... | Latency: 10746ms | Gas: 21000
+[2025-10-28T17:45:05.171Z] [INFO] [49/50] TX: 0x170e5136... | Latency: 23283ms | Gas: 21000
+[2025-10-28T17:45:13.567Z] [INFO] [50/50] TX: 0xca6c18dd... | Latency: 6395ms | Gas: 21000
+[2025-10-28T17:45:15.661Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T17:45:16.416Z] [✗ ERROR] Error getting chain identifier
+{
+  "message": "Error",
+  "stack": "AggregateError: Error\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.rpcCall (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:63:24)\n    at async IOTAClient.getChainIdentifier (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:85:14)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:94:23)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:112:20)\n    at async testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:114:21)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:45:16.416Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Error",
+  "stack": "AggregateError: Error\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.rpcCall (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:63:24)\n    at async IOTAClient.getChainIdentifier (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:85:14)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:94:23)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:112:20)\n    at async testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:114:21)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:45:16.416Z] [✗ ERROR] Cannot connect to IOTA node
+{
+  "message": "Error",
+  "stack": "AggregateError: Error\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.rpcCall (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:63:24)\n    at async IOTAClient.getChainIdentifier (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:85:14)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:94:23)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:112:20)\n    at async testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:114:21)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T17:45:16.416Z] [✗ ERROR] Cannot connect to IOTA
+[2025-10-28T17:51:35.013Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510089
+}
+[2025-10-28T17:51:35.013Z] [INFO] Sending 50 transactions...
+[2025-10-28T17:51:37.778Z] [INFO] [1/50] TX: 0xe9b6f9ee... | Latency: 2764ms | Gas: 21000
+[2025-10-28T17:53:14.957Z] [INFO] [2/50] TX: 0xd2fcaf57... | Latency: 95178ms | Gas: 21000
+[2025-10-28T17:53:27.649Z] [INFO] [3/50] TX: 0x3f58b13b... | Latency: 10691ms | Gas: 21000
+[2025-10-28T17:54:05.848Z] [INFO] [4/50] TX: 0x2691223c... | Latency: 36196ms | Gas: 21000
+[2025-10-28T17:54:14.409Z] [INFO] [5/50] TX: 0xbff7a8c0... | Latency: 6558ms | Gas: 21000
+[2025-10-28T17:54:27.146Z] [INFO] [6/50] TX: 0xdebbfca4... | Latency: 10734ms | Gas: 21000
+[2025-10-28T17:54:39.740Z] [INFO] [7/50] TX: 0xf3b16166... | Latency: 10593ms | Gas: 21000
+[2025-10-28T17:54:52.334Z] [INFO] [8/50] TX: 0x2b12dfb6... | Latency: 10591ms | Gas: 21000
+[2025-10-28T17:55:05.030Z] [INFO] [9/50] TX: 0x7f195277... | Latency: 10694ms | Gas: 21000
+[2025-10-28T17:55:13.631Z] [INFO] [10/50] TX: 0xca96c9b0... | Latency: 6598ms | Gas: 21000
+[2025-10-28T17:55:26.227Z] [INFO] [11/50] TX: 0xf4aefb9c... | Latency: 10594ms | Gas: 21000
+[2025-10-28T17:55:38.718Z] [INFO] [12/50] TX: 0xe37ccf1b... | Latency: 10490ms | Gas: 21000
+[2025-10-28T17:55:51.518Z] [INFO] [13/50] TX: 0xee7769cc... | Latency: 10799ms | Gas: 21000
+[2025-10-28T17:56:04.214Z] [INFO] [14/50] TX: 0xeb4ce94f... | Latency: 10695ms | Gas: 21000
+[2025-10-28T17:56:16.707Z] [INFO] [15/50] TX: 0xb2927a54... | Latency: 10492ms | Gas: 21000
+[2025-10-28T17:56:29.199Z] [INFO] [16/50] TX: 0x2ca19dd8... | Latency: 10491ms | Gas: 21000
+[2025-10-28T17:56:41.795Z] [INFO] [17/50] TX: 0x71df3971... | Latency: 10593ms | Gas: 21000
+[2025-10-28T17:56:50.395Z] [INFO] [18/50] TX: 0x5f1b328c... | Latency: 6598ms | Gas: 21000
+[2025-10-28T17:57:28.385Z] [INFO] [19/50] TX: 0x3469cd37... | Latency: 35989ms | Gas: 21000
+[2025-10-28T17:57:41.183Z] [INFO] [20/50] TX: 0x1b0c4171... | Latency: 10796ms | Gas: 21000
+[2025-10-28T17:57:53.982Z] [INFO] [21/50] TX: 0xd15f5e79... | Latency: 10798ms | Gas: 21000
+[2025-10-28T17:58:06.378Z] [INFO] [22/50] TX: 0x9ee843bf... | Latency: 10394ms | Gas: 21000
+[2025-10-28T17:58:14.564Z] [INFO] [23/50] TX: 0x1ea53a8a... | Latency: 6184ms | Gas: 21000
+[2025-10-28T17:58:27.363Z] [INFO] [24/50] TX: 0x58a64bfe... | Latency: 10798ms | Gas: 21000
+[2025-10-28T17:58:39.957Z] [INFO] [25/50] TX: 0x13b1e42e... | Latency: 10592ms | Gas: 21000
+[2025-10-28T17:58:52.757Z] [INFO] [26/50] TX: 0x700b0023... | Latency: 10797ms | Gas: 21000
+[2025-10-28T17:59:05.556Z] [INFO] [27/50] TX: 0x45c9f9f2... | Latency: 10798ms | Gas: 21000
+[2025-10-28T17:59:18.151Z] [INFO] [28/50] TX: 0xff49ecbe... | Latency: 10592ms | Gas: 21000
+[2025-10-28T17:59:26.547Z] [INFO] [29/50] TX: 0x73466f60... | Latency: 6395ms | Gas: 21000
+[2025-10-28T17:59:43.604Z] [INFO] [30/50] TX: 0xabf74fe0... | Latency: 15056ms | Gas: 21000
+[2025-10-28T17:59:52.248Z] [INFO] [31/50] TX: 0x679e6eef... | Latency: 6642ms | Gas: 21000
+[2025-10-28T18:00:04.843Z] [INFO] [32/50] TX: 0xb54d30d4... | Latency: 10593ms | Gas: 21000
+[2025-10-28T18:00:29.930Z] [INFO] [33/50] TX: 0xd1dae09f... | Latency: 23086ms | Gas: 21000
+[2025-10-28T18:00:51.127Z] [INFO] [34/50] TX: 0x9e941afa... | Latency: 19194ms | Gas: 21000
+[2025-10-28T18:01:04.848Z] [INFO] [35/50] TX: 0xeef0cedb... | Latency: 11720ms | Gas: 21000
+[2025-10-28T18:01:17.648Z] [INFO] [36/50] TX: 0x208c6b19... | Latency: 10798ms | Gas: 21000
+[2025-10-28T18:01:26.248Z] [INFO] [37/50] TX: 0x0059fd49... | Latency: 6600ms | Gas: 21000
+[2025-10-28T18:01:38.843Z] [INFO] [38/50] TX: 0xd7bd196c... | Latency: 10593ms | Gas: 21000
+[2025-10-28T18:03:53.087Z] [INFO] [39/50] TX: 0x273c3647... | Latency: 132243ms | Gas: 21000
+[2025-10-28T18:04:05.784Z] [INFO] [40/50] TX: 0x43c83ae5... | Latency: 10696ms | Gas: 21000
+[2025-10-28T18:04:14.385Z] [INFO] [41/50] TX: 0xb8ea4a7d... | Latency: 6600ms | Gas: 21000
+[2025-10-28T18:04:26.980Z] [INFO] [42/50] TX: 0xd47137e7... | Latency: 10595ms | Gas: 21000
+[2025-10-28T18:04:39.426Z] [INFO] [43/50] TX: 0x5073fadc... | Latency: 10445ms | Gas: 21000
+[2025-10-28T18:04:52.273Z] [INFO] [44/50] TX: 0x1d7a4d27... | Latency: 10845ms | Gas: 21000
+[2025-10-28T18:05:04.662Z] [INFO] [45/50] TX: 0x8485249f... | Latency: 10389ms | Gas: 21000
+[2025-10-28T18:05:17.121Z] [INFO] [46/50] TX: 0x4ee80c13... | Latency: 10457ms | Gas: 21000
+[2025-10-28T18:05:29.750Z] [INFO] [47/50] TX: 0xa4dfce08... | Latency: 10627ms | Gas: 21000
+[2025-10-28T18:05:37.888Z] [INFO] [48/50] TX: 0xfda2c9e2... | Latency: 6136ms | Gas: 21000
+[2025-10-28T18:05:54.579Z] [INFO] [49/50] TX: 0xb28520fc... | Latency: 14690ms | Gas: 21000
+[2025-10-28T18:06:03.038Z] [INFO] [50/50] TX: 0xc0f1b40e... | Latency: 6458ms | Gas: 21000
+[2025-10-28T18:06:05.141Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T18:06:06.015Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133144243",
+  "sdkMode": "Real transactions"
+}
+[2025-10-28T18:06:06.015Z] [INFO] Sending 50 blocks...
+[2025-10-28T18:06:06.015Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:06.015Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:06.015Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:06.110Z] [INFO] [1/50] Block: b48a2dc656... | Latency: 95ms | Confirmed: true
+[2025-10-28T18:06:07.111Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:07.112Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:07.112Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:07.259Z] [INFO] [2/50] Block: ccf3ff9061... | Latency: 147ms | Confirmed: true
+[2025-10-28T18:06:08.259Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:08.260Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:08.260Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:08.321Z] [INFO] [3/50] Block: 8065af88d2... | Latency: 61ms | Confirmed: true
+[2025-10-28T18:06:09.321Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:09.322Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:09.322Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:09.389Z] [INFO] [4/50] Block: 51a0d58109... | Latency: 67ms | Confirmed: true
+[2025-10-28T18:06:10.389Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:10.390Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:10.390Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:10.475Z] [INFO] [5/50] Block: 57a27970ef... | Latency: 85ms | Confirmed: true
+[2025-10-28T18:06:11.476Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:11.477Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:11.477Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:11.609Z] [INFO] [6/50] Block: 3719106723... | Latency: 132ms | Confirmed: true
+[2025-10-28T18:06:12.610Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:12.611Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:12.611Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:12.741Z] [INFO] [7/50] Block: 2f7a7b41fe... | Latency: 130ms | Confirmed: true
+[2025-10-28T18:06:13.742Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:13.743Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:13.743Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:13.819Z] [INFO] [8/50] Block: 4991d79e39... | Latency: 76ms | Confirmed: true
+[2025-10-28T18:06:14.820Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:14.821Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:14.821Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:14.963Z] [INFO] [9/50] Block: 9d66424ce2... | Latency: 142ms | Confirmed: true
+[2025-10-28T18:06:15.965Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:15.965Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:15.965Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:16.060Z] [INFO] [10/50] Block: 7c1a197e14... | Latency: 95ms | Confirmed: true
+[2025-10-28T18:06:17.061Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:17.062Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:17.062Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:17.185Z] [INFO] [11/50] Block: 01f4e94b5b... | Latency: 123ms | Confirmed: true
+[2025-10-28T18:06:18.186Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:18.187Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:18.187Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:18.288Z] [INFO] [12/50] Block: 5aadf84273... | Latency: 101ms | Confirmed: true
+[2025-10-28T18:06:19.289Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:19.290Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:19.290Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:19.371Z] [INFO] [13/50] Block: c6ef9c3315... | Latency: 81ms | Confirmed: true
+[2025-10-28T18:06:20.371Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:20.371Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:20.372Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:20.511Z] [INFO] [14/50] Block: da27d09a2a... | Latency: 139ms | Confirmed: true
+[2025-10-28T18:06:21.512Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:21.513Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:21.513Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:21.634Z] [INFO] [15/50] Block: 0fac6d11d4... | Latency: 121ms | Confirmed: true
+[2025-10-28T18:06:22.635Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:22.636Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:22.636Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:22.718Z] [INFO] [16/50] Block: 4458fb81ed... | Latency: 82ms | Confirmed: true
+[2025-10-28T18:06:23.719Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:23.720Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:23.720Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:23.854Z] [INFO] [17/50] Block: 7245166139... | Latency: 134ms | Confirmed: true
+[2025-10-28T18:06:24.855Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:24.856Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:24.856Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:24.961Z] [INFO] [18/50] Block: 7aa049e8da... | Latency: 105ms | Confirmed: true
+[2025-10-28T18:06:25.962Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:25.963Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:25.963Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:26.112Z] [INFO] [19/50] Block: 5fd2c2385f... | Latency: 149ms | Confirmed: true
+[2025-10-28T18:06:27.113Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:27.114Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:27.114Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:27.194Z] [INFO] [20/50] Block: adb6e28b19... | Latency: 80ms | Confirmed: true
+[2025-10-28T18:06:28.195Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:28.196Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:28.196Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:28.260Z] [INFO] [21/50] Block: 7f500bc5f7... | Latency: 64ms | Confirmed: true
+[2025-10-28T18:06:29.261Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:29.262Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:29.262Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:29.358Z] [INFO] [22/50] Block: eeb6864446... | Latency: 96ms | Confirmed: true
+[2025-10-28T18:06:30.359Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:30.360Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:30.360Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:30.500Z] [INFO] [23/50] Block: 8d0745179a... | Latency: 139ms | Confirmed: true
+[2025-10-28T18:06:31.501Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:31.501Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:31.501Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:31.577Z] [INFO] [24/50] Block: 6584260c8b... | Latency: 75ms | Confirmed: true
+[2025-10-28T18:06:32.578Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:32.579Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:32.579Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:32.702Z] [INFO] [25/50] Block: 725f8db66e... | Latency: 123ms | Confirmed: true
+[2025-10-28T18:06:33.703Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:33.704Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:33.704Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:33.804Z] [INFO] [26/50] Block: 05c21698ff... | Latency: 100ms | Confirmed: true
+[2025-10-28T18:06:34.806Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:34.806Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:34.806Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:34.929Z] [INFO] [27/50] Block: 06c1ce09f9... | Latency: 123ms | Confirmed: true
+[2025-10-28T18:06:35.929Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:35.930Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:35.930Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:36.004Z] [INFO] [28/50] Block: 3589d8be06... | Latency: 74ms | Confirmed: true
+[2025-10-28T18:06:37.006Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:37.006Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:37.006Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:37.149Z] [INFO] [29/50] Block: c163ef1561... | Latency: 143ms | Confirmed: true
+[2025-10-28T18:06:38.150Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:38.150Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:38.151Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:38.256Z] [INFO] [30/50] Block: 377cca2d5d... | Latency: 105ms | Confirmed: true
+[2025-10-28T18:06:39.257Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:39.258Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:39.258Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:39.390Z] [INFO] [31/50] Block: 86d641256f... | Latency: 132ms | Confirmed: true
+[2025-10-28T18:06:40.391Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:40.392Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:40.392Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:40.444Z] [INFO] [32/50] Block: 7527d80c6c... | Latency: 52ms | Confirmed: true
+[2025-10-28T18:06:41.445Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:41.446Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:41.446Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:41.584Z] [INFO] [33/50] Block: 0d3503862c... | Latency: 138ms | Confirmed: true
+[2025-10-28T18:06:42.584Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:42.585Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:42.585Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:42.657Z] [INFO] [34/50] Block: b57b5f2bf6... | Latency: 72ms | Confirmed: true
+[2025-10-28T18:06:43.657Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:43.658Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:43.658Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:43.709Z] [INFO] [35/50] Block: adf50df41f... | Latency: 51ms | Confirmed: true
+[2025-10-28T18:06:44.709Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:44.710Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:44.710Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:44.810Z] [INFO] [36/50] Block: 32ff017b24... | Latency: 100ms | Confirmed: true
+[2025-10-28T18:06:45.811Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:45.812Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:45.812Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:45.905Z] [INFO] [37/50] Block: 5292bd5369... | Latency: 93ms | Confirmed: true
+[2025-10-28T18:06:46.906Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:46.907Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:46.907Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:47.018Z] [INFO] [38/50] Block: 0fd0ef2cf9... | Latency: 111ms | Confirmed: true
+[2025-10-28T18:06:48.019Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:48.020Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:48.020Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:48.147Z] [INFO] [39/50] Block: 1d10113ef1... | Latency: 127ms | Confirmed: true
+[2025-10-28T18:06:49.148Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:49.149Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:49.149Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:49.274Z] [INFO] [40/50] Block: dc1f3c4cb3... | Latency: 125ms | Confirmed: true
+[2025-10-28T18:06:50.275Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:50.276Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:50.276Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:50.406Z] [INFO] [41/50] Block: 04ae9ab637... | Latency: 130ms | Confirmed: true
+[2025-10-28T18:06:51.407Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:51.408Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:51.408Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:51.531Z] [INFO] [42/50] Block: f9853eef10... | Latency: 123ms | Confirmed: true
+[2025-10-28T18:06:52.532Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:52.533Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:52.533Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:52.671Z] [INFO] [43/50] Block: 072b0ad836... | Latency: 138ms | Confirmed: true
+[2025-10-28T18:06:53.672Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:53.672Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:53.673Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:53.727Z] [INFO] [44/50] Block: fb28ea7000... | Latency: 54ms | Confirmed: true
+[2025-10-28T18:06:54.727Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:54.728Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:54.728Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:54.778Z] [INFO] [45/50] Block: b63800de2d... | Latency: 50ms | Confirmed: true
+[2025-10-28T18:06:55.778Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:55.779Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:55.779Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:55.913Z] [INFO] [46/50] Block: 1d41157b17... | Latency: 134ms | Confirmed: true
+[2025-10-28T18:06:56.913Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:56.914Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:56.914Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:57.004Z] [INFO] [47/50] Block: 555885a861... | Latency: 90ms | Confirmed: true
+[2025-10-28T18:06:58.004Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:58.005Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:58.005Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:58.131Z] [INFO] [48/50] Block: 2dab0f1c02... | Latency: 126ms | Confirmed: true
+[2025-10-28T18:06:59.132Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:06:59.133Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:06:59.133Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:06:59.189Z] [INFO] [49/50] Block: fcccc582d1... | Latency: 56ms | Confirmed: true
+[2025-10-28T18:07:00.190Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:07:00.191Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:07:00.191Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:07:00.245Z] [INFO] [50/50] Block: 614a3d242a... | Latency: 54ms | Confirmed: true
+[2025-10-28T18:10:30.187Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510183
+}
+[2025-10-28T18:10:30.187Z] [INFO] Sending 50 transactions...
+[2025-10-28T18:10:41.344Z] [INFO] [1/50] TX: 0x2c018aa3... | Latency: 11156ms | Gas: 21000
+[2025-10-28T18:10:54.251Z] [INFO] [2/50] TX: 0x3628ae6b... | Latency: 10905ms | Gas: 21000
+[2025-10-28T18:11:02.750Z] [INFO] [3/50] TX: 0xe526ed37... | Latency: 6499ms | Gas: 21000
+[2025-10-28T18:11:15.550Z] [INFO] [4/50] TX: 0x95f39990... | Latency: 10797ms | Gas: 21000
+[2025-10-28T18:11:27.934Z] [INFO] [5/50] TX: 0x68bc72b0... | Latency: 10382ms | Gas: 21000
+[2025-10-28T18:11:40.534Z] [INFO] [6/50] TX: 0x60df604a... | Latency: 10599ms | Gas: 21000
+[2025-10-28T18:11:53.130Z] [INFO] [7/50] TX: 0x7eac53a4... | Latency: 10593ms | Gas: 21000
+[2025-10-28T18:13:17.691Z] [INFO] [8/50] TX: 0xd0674343... | Latency: 82560ms | Gas: 21000
+[2025-10-28T18:13:27.849Z] [INFO] [9/50] TX: 0x934953c7... | Latency: 8156ms | Gas: 21000
+[2025-10-28T18:13:40.650Z] [INFO] [10/50] TX: 0xf85485a6... | Latency: 10799ms | Gas: 21000
+[2025-10-28T18:13:53.654Z] [INFO] [11/50] TX: 0x60fa589e... | Latency: 11003ms | Gas: 21000
+[2025-10-28T18:14:06.351Z] [INFO] [12/50] TX: 0x6e7b6820... | Latency: 10694ms | Gas: 21000
+[2025-10-28T18:14:14.844Z] [INFO] [13/50] TX: 0xf7774622... | Latency: 6490ms | Gas: 21000
+[2025-10-28T18:14:27.435Z] [INFO] [14/50] TX: 0xadc8aaa8... | Latency: 10590ms | Gas: 21000
+[2025-10-28T18:14:40.144Z] [INFO] [15/50] TX: 0x9215c3a9... | Latency: 10707ms | Gas: 21000
+[2025-10-28T18:14:52.809Z] [INFO] [16/50] TX: 0x63d4eeab... | Latency: 10663ms | Gas: 21000
+[2025-10-28T18:15:01.954Z] [INFO] [17/50] TX: 0x8560a796... | Latency: 7144ms | Gas: 21000
+[2025-10-28T18:15:15.266Z] [INFO] [18/50] TX: 0x1cc7c268... | Latency: 11310ms | Gas: 21000
+[2025-10-28T18:15:27.758Z] [INFO] [19/50] TX: 0x69c2ce1b... | Latency: 10490ms | Gas: 21000
+[2025-10-28T18:15:40.353Z] [INFO] [20/50] TX: 0x106cebed... | Latency: 10595ms | Gas: 21000
+[2025-10-28T18:15:53.359Z] [INFO] [21/50] TX: 0xb887ee3b... | Latency: 11003ms | Gas: 21000
+[2025-10-28T18:16:01.921Z] [INFO] [22/50] TX: 0x66d85042... | Latency: 6560ms | Gas: 21000
+[2025-10-28T18:16:14.759Z] [INFO] [23/50] TX: 0x78ce2ab6... | Latency: 10836ms | Gas: 21000
+[2025-10-28T18:16:27.150Z] [INFO] [24/50] TX: 0x2bd90b49... | Latency: 10390ms | Gas: 21000
+[2025-10-28T18:16:40.360Z] [INFO] [25/50] TX: 0x0ecc549a... | Latency: 11208ms | Gas: 21000
+[2025-10-28T18:16:53.439Z] [INFO] [26/50] TX: 0x2bcdacb4... | Latency: 11078ms | Gas: 21000
+[2025-10-28T18:17:01.761Z] [INFO] [27/50] TX: 0x71ce7cee... | Latency: 6321ms | Gas: 21000
+[2025-10-28T18:17:14.459Z] [INFO] [28/50] TX: 0xb05979a3... | Latency: 10696ms | Gas: 21000
+[2025-10-28T18:17:27.259Z] [INFO] [29/50] TX: 0x6277f0c0... | Latency: 10800ms | Gas: 21000
+[2025-10-28T18:17:39.853Z] [INFO] [30/50] TX: 0x3770d173... | Latency: 10592ms | Gas: 21000
+[2025-10-28T18:17:52.859Z] [INFO] [31/50] TX: 0xdc67684c... | Latency: 11004ms | Gas: 21000
+[2025-10-28T18:18:04.321Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510221
+}
+[2025-10-28T18:18:04.321Z] [INFO] Sending 50 transactions...
+[2025-10-28T18:18:15.586Z] [INFO] [1/50] TX: 0x6dec0dd1... | Latency: 11263ms | Gas: 21000
+[2025-10-28T18:18:28.352Z] [INFO] [2/50] TX: 0xfa8ebb39... | Latency: 10765ms | Gas: 21000
+[2025-10-28T18:19:05.767Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510226
+}
+[2025-10-28T18:19:05.767Z] [INFO] Sending 10 transactions...
+[2025-10-28T18:19:16.770Z] [INFO] [1/10] TX: 0xb16bba44... | Latency: 11003ms | Gas: 21000
+[2025-10-28T18:19:29.279Z] [INFO] [2/10] TX: 0x5e50630e... | Latency: 10508ms | Gas: 21000
+[2025-10-28T18:19:37.613Z] [INFO] [3/10] TX: 0xab52df52... | Latency: 6334ms | Gas: 21000
+[2025-10-28T18:19:44.570Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510229
+}
+[2025-10-28T18:19:44.570Z] [INFO] Sending 4 transactions...
+[2025-10-28T18:19:51.130Z] [INFO] [1/4] TX: 0xd7a1fbdb... | Latency: 6560ms | Gas: 21000
+[2025-10-28T18:20:05.466Z] [INFO] [2/4] TX: 0x73602924... | Latency: 12334ms | Gas: 21000
+[2025-10-28T18:20:14.068Z] [INFO] [3/4] TX: 0x25806c44... | Latency: 6598ms | Gas: 21000
+[2025-10-28T18:20:27.136Z] [INFO] [4/4] TX: 0x71c1ac8d... | Latency: 11066ms | Gas: 21000
+[2025-10-28T18:20:29.238Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T18:20:29.728Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133148064",
+  "sdkMode": "Real transactions"
+}
+[2025-10-28T18:20:29.728Z] [INFO] Sending 4 blocks...
+[2025-10-28T18:20:29.728Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:20:29.728Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:20:29.729Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:20:29.849Z] [INFO] [1/4] Block: 031dac61af... | Latency: 120ms | Confirmed: true
+[2025-10-28T18:20:30.851Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:20:30.851Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:20:30.851Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:20:30.950Z] [INFO] [2/4] Block: 5c37ecc97a... | Latency: 99ms | Confirmed: true
+[2025-10-28T18:20:31.950Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:20:31.951Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:20:31.951Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:20:32.087Z] [INFO] [3/4] Block: da5c10e427... | Latency: 136ms | Confirmed: true
+[2025-10-28T18:20:33.089Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T18:20:33.089Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T18:20:33.090Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T18:20:33.218Z] [INFO] [4/4] Block: a9af366ff6... | Latency: 128ms | Confirmed: true
+[2025-10-28T18:34:35.842Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510303
+}
+[2025-10-28T18:34:35.842Z] [INFO] Sending 4 transactions...
+[2025-10-28T18:34:51.763Z] [INFO] [1/4] TX: 0x4f594363... | Latency: 15920ms | Gas: 21000
+[2025-10-28T18:35:04.564Z] [INFO] [2/4] TX: 0xb01c7f8f... | Latency: 10799ms | Gas: 21000
+[2025-10-28T18:35:17.166Z] [INFO] [3/4] TX: 0xef0f78e1... | Latency: 10601ms | Gas: 21000
+[2025-10-28T18:35:25.442Z] [INFO] [4/4] TX: 0x4d0e5f81... | Latency: 6274ms | Gas: 21000
+[2025-10-28T18:35:27.450Z] [⚠ WARN] IOTA SDK not available, using simulation mode
+[2025-10-28T18:35:27.904Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133152038",
+  "sdkMode": "Simulation"
+}
+[2025-10-28T18:35:27.904Z] [INFO] Sending 4 blocks...
+[2025-10-28T18:35:28.049Z] [INFO] [1/4] Block: d6b04b0d42... | Latency: 145ms | Confirmed: true
+[2025-10-28T18:35:29.120Z] [INFO] [2/4] Block: 684119bffe... | Latency: 70ms | Confirmed: true
+[2025-10-28T18:35:30.189Z] [INFO] [3/4] Block: 388566612b... | Latency: 69ms | Confirmed: true
+[2025-10-28T18:35:31.285Z] [INFO] [4/4] Block: c626c6d498... | Latency: 96ms | Confirmed: true
+[2025-10-28T18:38:21.367Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510322
+}
+[2025-10-28T18:38:21.368Z] [INFO] Sending 10 transactions...
+[2025-10-28T18:38:28.347Z] [INFO] [1/10] TX: 0xd2138039... | Latency: 6979ms | Gas: 21000
+[2025-10-28T18:38:40.889Z] [INFO] [2/10] TX: 0x0ca3fdb6... | Latency: 10541ms | Gas: 21000
+[2025-10-28T18:38:53.538Z] [INFO] [3/10] TX: 0xdd954945... | Latency: 10647ms | Gas: 21000
+[2025-10-28T18:39:01.934Z] [INFO] [4/10] TX: 0x9de64a77... | Latency: 6396ms | Gas: 21000
+[2025-10-28T18:39:14.627Z] [INFO] [5/10] TX: 0xd30280ca... | Latency: 10691ms | Gas: 21000
+[2025-10-28T18:39:26.797Z] [INFO] [6/10] TX: 0x5edc0ea9... | Latency: 10169ms | Gas: 21000
+[2025-10-28T18:39:39.391Z] [INFO] [7/10] TX: 0x9ee4bc1c... | Latency: 10591ms | Gas: 21000
+[2025-10-28T18:39:52.318Z] [INFO] [8/10] TX: 0xcad51124... | Latency: 10926ms | Gas: 21000
+[2025-10-28T18:40:05.008Z] [INFO] [9/10] TX: 0xb327cf71... | Latency: 10688ms | Gas: 21000
+[2025-10-28T18:40:17.713Z] [INFO] [10/10] TX: 0xf5297061... | Latency: 10704ms | Gas: 21000
+[2025-10-28T18:40:19.722Z] [⚠ WARN] IOTA SDK not available, using simulation mode
+[2025-10-28T18:40:20.287Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133153341",
+  "sdkMode": "Simulation"
+}
+[2025-10-28T18:40:20.287Z] [INFO] Sending 10 blocks...
+[2025-10-28T18:40:20.344Z] [INFO] [1/10] Block: a1d584a98f... | Latency: 57ms | Confirmed: true
+[2025-10-28T18:40:21.476Z] [INFO] [2/10] Block: 6be6a0b04a... | Latency: 131ms | Confirmed: true
+[2025-10-28T18:40:22.576Z] [INFO] [3/10] Block: 8d2e9c56cb... | Latency: 100ms | Confirmed: true
+[2025-10-28T18:40:23.656Z] [INFO] [4/10] Block: 1a6c2ef6d1... | Latency: 80ms | Confirmed: true
+[2025-10-28T18:40:24.751Z] [INFO] [5/10] Block: 63e350528c... | Latency: 95ms | Confirmed: true
+[2025-10-28T18:40:25.875Z] [INFO] [6/10] Block: 60398b5968... | Latency: 124ms | Confirmed: true
+[2025-10-28T18:40:26.999Z] [INFO] [7/10] Block: f2408cd753... | Latency: 124ms | Confirmed: true
+[2025-10-28T18:40:28.110Z] [INFO] [8/10] Block: ecf77cff6c... | Latency: 110ms | Confirmed: true
+[2025-10-28T18:40:29.245Z] [INFO] [9/10] Block: bd795f5e24... | Latency: 134ms | Confirmed: true
+[2025-10-28T18:40:30.305Z] [INFO] [10/10] Block: c6640fdcd5... | Latency: 60ms | Confirmed: true
+[2025-10-28T19:55:46.107Z] [✗ ERROR] Cannot connect to Ethereum network
+{
+  "message": "getaddrinfo ENOTFOUND sepolia.infura.io",
+  "stack": "Error: getaddrinfo ENOTFOUND sepolia.infura.io\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"
+}
+[2025-10-28T19:55:46.109Z] [✗ ERROR] Cannot connect to Sepolia
+[2025-10-28T19:55:46.203Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T19:55:46.772Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133173423",
+  "sdkMode": "Real transactions"
+}
+[2025-10-28T19:55:46.772Z] [INFO] Sending 10 blocks...
+[2025-10-28T19:55:46.773Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:46.774Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:46.774Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:46.868Z] [INFO] [1/10] Block: 5ed8f79096... | Latency: 94ms | Confirmed: true
+[2025-10-28T19:55:47.869Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:47.870Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:47.870Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:47.936Z] [INFO] [2/10] Block: d7729e09f2... | Latency: 65ms | Confirmed: true
+[2025-10-28T19:55:48.937Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:48.938Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:48.938Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:49.023Z] [INFO] [3/10] Block: 5a7e078a1b... | Latency: 85ms | Confirmed: true
+[2025-10-28T19:55:50.024Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:50.025Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:50.025Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:50.173Z] [INFO] [4/10] Block: eb371c9f52... | Latency: 148ms | Confirmed: true
+[2025-10-28T19:55:51.175Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:51.176Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:51.176Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:51.245Z] [INFO] [5/10] Block: bd90100fe9... | Latency: 68ms | Confirmed: true
+[2025-10-28T19:55:52.247Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:52.248Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:52.248Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:52.339Z] [INFO] [6/10] Block: 2e13d85b92... | Latency: 91ms | Confirmed: true
+[2025-10-28T19:55:53.340Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:53.341Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:53.342Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:53.460Z] [INFO] [7/10] Block: f58d7c8c3a... | Latency: 118ms | Confirmed: true
+[2025-10-28T19:55:54.461Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:54.466Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:54.466Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:54.521Z] [INFO] [8/10] Block: c3489588e3... | Latency: 55ms | Confirmed: true
+[2025-10-28T19:55:55.522Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:55.523Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:55.523Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:55.613Z] [INFO] [9/10] Block: 8d6aa88c05... | Latency: 90ms | Confirmed: true
+[2025-10-28T19:55:56.613Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:55:56.614Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:55:56.614Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:55:56.697Z] [INFO] [10/10] Block: 5559d6523b... | Latency: 82ms | Confirmed: true
+[2025-10-28T19:56:39.039Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510712
+}
+[2025-10-28T19:56:39.044Z] [INFO] Sending 10 transactions...
+[2025-10-28T19:56:49.730Z] [INFO] [1/10] TX: 0xa652cf8d... | Latency: undefinedms | Gas: 21000
+[2025-10-28T19:57:02.840Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510714
+}
+[2025-10-28T19:57:02.841Z] [INFO] Sending 2 transactions...
+[2025-10-28T19:57:14.717Z] [INFO] [1/2] TX: 0x332f260a... | Latency: undefinedms | Gas: 21000
+[2025-10-28T19:57:27.720Z] [INFO] [2/2] TX: 0x9cd1b7d4... | Latency: undefinedms | Gas: 21000
+[2025-10-28T19:57:29.824Z] [INFO] IOTA SDK initialized with wallet
+[2025-10-28T19:57:30.399Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133173882",
+  "sdkMode": "Real transactions"
+}
+[2025-10-28T19:57:30.399Z] [INFO] Sending 2 blocks...
+[2025-10-28T19:57:30.400Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:57:30.401Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:57:30.402Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:57:30.501Z] [INFO] [1/2] Block: f4d4999590... | Latency: 99ms | Confirmed: true
+[2025-10-28T19:57:31.503Z] [INFO] Attempting real IOTA transaction...
+[2025-10-28T19:57:31.503Z] [✗ ERROR] Error sending real transaction
+{
+  "message": "this.TransactionBlock is not a constructor",
+  "stack": "TypeError: this.TransactionBlock is not a constructor\n    at IOTAClient.sendRealTransaction (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:158:18)\n    at IOTAClient.submitBlock (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:228:27)\n    at testIOTALatency (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:124:35)\n    at async runLatencyTest (file:///home/carlos/iota-vs-blockchain/src/tests/latency.test.js:195:24)"
+}
+[2025-10-28T19:57:31.504Z] [⚠ WARN] Real transaction failed: this.TransactionBlock is not a constructor, falling back to simulation
+[2025-10-28T19:57:31.614Z] [INFO] [2/2] Block: 8e6adc7b53... | Latency: 110ms | Confirmed: true
+[2025-10-28T20:00:06.451Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510729
+}
+[2025-10-28T20:00:06.452Z] [INFO] Sending 2 transactions...
+[2025-10-28T20:00:18.014Z] [INFO] [1/2] TX: 0x603c23bf... | Latency: undefinedms | Gas: 21000
+[2025-10-28T20:00:27.398Z] [INFO] [2/2] TX: 0x6ecf283d... | Latency: undefinedms | Gas: 21000
+[2025-10-28T20:00:29.410Z] [⚠ WARN] IOTA SDK not available, using simulation mode
+[2025-10-28T20:00:29.906Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133174684",
+  "sdkMode": "Simulation"
+}
+[2025-10-28T20:00:29.907Z] [INFO] Sending 2 blocks...
+[2025-10-28T20:00:30.044Z] [INFO] [1/2] Block: 2a237e4b3d... | Latency: 137ms | Confirmed: true
+[2025-10-28T20:00:31.184Z] [INFO] [2/2] Block: 0f2a8a1af0... | Latency: 139ms | Confirmed: true
+[2025-10-28T20:09:56.893Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510778
+}
+[2025-10-28T20:12:10.526Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9510789
+}
+[2025-10-28T20:12:10.529Z] [INFO] Sending 2 transactions...
+[2025-10-28T20:12:26.182Z] [INFO] [1/2] TX: 0x494e1301... | Latency: undefinedms | Gas: 21000
+[2025-10-28T20:13:04.382Z] [INFO] [2/2] TX: 0x4e4061f2... | Latency: undefinedms | Gas: 21000
+[2025-10-28T20:13:06.390Z] [⚠ WARN] IOTA SDK not available, using simulation mode
+[2025-10-28T20:13:06.938Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "133178069",
+  "sdkMode": "Simulation"
+}
+[2025-10-28T20:13:06.938Z] [INFO] Sending 2 blocks...
+[2025-10-28T20:13:07.068Z] [INFO] [1/2] Block: eeb17ff3d6... | Latency: 129ms | Confirmed: true
+[2025-10-28T20:13:08.150Z] [INFO] [2/2] Block: ebfeefc5fa... | Latency: 80ms | Confirmed: true

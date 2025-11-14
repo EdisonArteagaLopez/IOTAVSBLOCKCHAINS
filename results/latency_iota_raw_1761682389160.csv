@@ -1,0 +1,3 @@
+Timestamp,Transaction Hash,Latency (ms),Gas Used,Gas Cost,Success,Error,CPU Time (μs)
+1761682387068,eeb17ff3d60885c60d8e5cbc871d20a281951f6d4502169185e67320838543bb,129,0,0,true,,2.023
+1761682388150,ebfeefc5fab210e6d9283b111dd909fd3ce803c58d811da3fbe7eedc9296b718,80,0,0,true,,0.672

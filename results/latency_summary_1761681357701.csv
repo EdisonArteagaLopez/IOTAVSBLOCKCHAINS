@@ -1,0 +1,2 @@
+Network,Total Transactions,Success Rate (%),Avg Latency (ms),Min Latency (ms),Max Latency (ms),P95 Latency (ms),Throughput (TPS),Avg Gas Used,Avg CPU Time (μs)
+IOTA,10,100.00,89.60,55.00,148.00,148.00,1.02,0,4.02

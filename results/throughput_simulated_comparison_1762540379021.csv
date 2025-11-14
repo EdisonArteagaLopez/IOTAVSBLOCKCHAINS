@@ -1,0 +1,6 @@
+Metric,Sepolia,IOTA
+Average Latency (ms),27249.03,1078.01
+P95 Latency (ms),37374.00,1984.00
+Throughput (TPS),13.84,265.75
+Success Rate (%),100.00,100.00
+Avg Gas/Cost,21000,0 (Feeless)

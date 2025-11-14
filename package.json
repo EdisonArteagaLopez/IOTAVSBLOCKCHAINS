@@ -1,0 +1,38 @@
+{
+  "name": "iota-vs-blockchain",
+  "version": "1.0.0",
+  "description": "Comparación de rendimiento entre IOTA y Blockchain (Sepolia)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:latency": "node src/tests/latency.test.js",
+    "test:throughput": "node src/tests/throughput.test.js",
+    "test:scalability": "node src/tests/scalability.test.js",
+    "test:gas": "node src/tests/gas-costs.test.js",
+    "test:storage": "node src/tests/storage.test.js",
+    "test:integrity": "node src/tests/data-integrity.test.js",
+    "test:all": "node src/tests/run-all.js",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "iota",
+    "ethereum",
+    "blockchain",
+    "dlt",
+    "benchmark"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@iota/iota-sdk": "^1.6.1",
+    "@iota/sdk": "^1.1.6",
+    "axios": "^1.13.1",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.15.0",
+    "seedrandom": "^3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

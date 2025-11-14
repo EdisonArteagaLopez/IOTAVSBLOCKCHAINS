@@ -1,0 +1,3 @@
+Network,Total Transactions,Success Rate (%),Avg Latency (ms),Min Latency (ms),Max Latency (ms),P95 Latency (ms),Throughput (TPS),Avg Gas Used,Avg CPU Time (μs)
+Sepolia,100,100.00,27626.86,24039.00,60079.00,36274.00,0.04,21000,3.36
+IOTA,100,100.00,1074.94,392.00,3452.00,1906.00,0.93,0,0.90

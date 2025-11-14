@@ -1,0 +1,300 @@
+[2025-10-27T12:38:33.465Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:38:34.370Z] [✗ ERROR] Error getting block number
+{
+  "message": "getaddrinfo ENOTFOUND sepolia.infura.io",
+  "stack": "Error: getaddrinfo ENOTFOUND sepolia.infura.io\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"
+}
+[2025-10-27T12:38:34.370Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-27T12:38:34.370Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-27T12:38:34.371Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:38:35.712Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-27T12:38:35.713Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-27T12:38:35.713Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-27T12:39:19.356Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:39:24.418Z] [✗ ERROR] Error getting block number
+{
+  "message": "request timeout (code=TIMEOUT, version=6.15.0)",
+  "stack": "Error: request timeout (code=TIMEOUT, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at ClientRequest.<anonymous> (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/geturl.js:55:24)\n    at ClientRequest.emit (node:events:524:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:849:9)\n    at Object.onceWrapper (node:events:638:28)\n    at TLSSocket.emit (node:events:536:35)\n    at Socket._onTimeout (node:net:595:8)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+}
+[2025-10-27T12:39:24.419Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-27T12:39:24.419Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-27T12:39:24.419Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:39:25.069Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-27T12:39:25.070Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-27T12:39:25.070Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-27T12:40:35.842Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:40:39.915Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9501569
+}
+[2025-10-27T12:40:39.915Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-27T12:40:41.968Z] [✗ ERROR] Error getting balance
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:40:41.968Z] [✗ ERROR] Error testing Sepolia connection
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:40:41.968Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:40:42.279Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-27T12:40:42.279Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-27T12:40:42.279Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-27T12:40:50.644Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:40:56.912Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9501570
+}
+[2025-10-27T12:40:56.913Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-27T12:40:57.392Z] [✗ ERROR] Error getting balance
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:40:57.392Z] [✗ ERROR] Error testing Sepolia connection
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:40:57.393Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:40:57.638Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-27T12:40:57.638Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-27T12:40:57.639Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-27T12:43:40.562Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:43:41.665Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9501584
+}
+[2025-10-27T12:43:41.666Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-27T12:43:42.291Z] [✗ ERROR] Error getting balance
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:43:42.292Z] [✗ ERROR] Error testing Sepolia connection
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:43:42.292Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:43:43.003Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "132673866"
+}
+[2025-10-27T12:43:43.004Z] [✓ SUCCESS] ✓ IOTA connection successful
+[2025-10-27T12:43:43.619Z] [INFO]   Node: IOTA 2.0 Testnet
+[2025-10-27T12:43:43.619Z] [INFO]   Version: 2.0
+[2025-10-27T12:43:43.620Z] [INFO]   Latest Milestone: N/A
+[2025-10-27T12:43:44.038Z] [INFO]   Blocks/sec: undefined
+[2025-10-27T12:43:44.039Z] [INFO]   Confirmed Blocks/sec: undefined
+[2025-10-27T12:51:56.396Z] [INFO] Testing Sepolia connection...
+[2025-10-27T12:51:57.795Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9501625
+}
+[2025-10-27T12:51:57.795Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-27T12:51:58.414Z] [✗ ERROR] Error getting balance
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:51:58.414Z] [✗ ERROR] Error testing Sepolia connection
+{
+  "message": "unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)",
+  "stack": "Error: unconfigured name (value=\"6cbb83f3e6af2cd63378ebe1fdbfa66dabf6d7a0\", code=UNCONFIGURED_NAME, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkAddress (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/address/checks.js:56:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Promise.all (index 0)\n    at async #getAccountValue (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:722:35)\n    at async JsonRpcProvider.getBalance (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/abstract-provider.js:727:26)\n    at async EthereumClient.getBalance (file:///home/carlos/iota-vs-blockchain/src/ethereum/client.js:48:23)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:19:23)"
+}
+[2025-10-27T12:51:58.414Z] [INFO] Testing IOTA connection...
+[2025-10-27T12:51:58.925Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "132676069"
+}
+[2025-10-27T12:51:58.925Z] [✓ SUCCESS] ✓ IOTA connection successful
+[2025-10-27T12:51:59.435Z] [INFO]   Node: IOTA 2.0 Testnet
+[2025-10-27T12:51:59.435Z] [INFO]   Version: 2.0
+[2025-10-27T12:51:59.436Z] [INFO]   Latest Milestone: N/A
+[2025-10-27T12:51:59.857Z] [INFO]   Blocks/sec: undefined
+[2025-10-27T12:51:59.857Z] [INFO]   Confirmed Blocks/sec: undefined
+[2025-10-27T17:35:07.972Z] [INFO] Testing Sepolia connection...
+[2025-10-27T17:35:08.328Z] [✗ ERROR] Error getting block number
+{
+  "message": "getaddrinfo ENOTFOUND sepolia.infura.io",
+  "stack": "Error: getaddrinfo ENOTFOUND sepolia.infura.io\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"
+}
+[2025-10-27T17:35:08.328Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-27T17:35:08.328Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-27T17:35:08.329Z] [INFO] Testing IOTA connection...
+[2025-10-27T17:35:08.816Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "132751319"
+}
+[2025-10-27T17:35:08.816Z] [✓ SUCCESS] ✓ IOTA connection successful
+[2025-10-27T17:35:09.243Z] [INFO]   Node: IOTA 2.0 Testnet
+[2025-10-27T17:35:09.244Z] [INFO]   Version: 2.0
+[2025-10-27T17:35:09.244Z] [INFO]   Latest Milestone: N/A
+[2025-10-27T17:35:09.672Z] [INFO]   Blocks/sec: undefined
+[2025-10-27T17:35:09.673Z] [INFO]   Confirmed Blocks/sec: undefined
+[2025-10-27T17:37:45.998Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9503052
+}
+[2025-10-27T17:37:45.999Z] [INFO] Sending 50 transactions...
+[2025-10-27T17:37:52.868Z] [✗ ERROR] Error sending transaction
+{
+  "message": "transaction execution reverted (action=\"sendTransaction\", data=null, reason=null, invocation=null, revert=null, transaction={ \"data\": \"\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, receipt={ \"_type\": \"TransactionReceipt\", \"blobGasPrice\": null, \"blobGasUsed\": null, \"blockHash\": \"0x33e1dfaaff649e2081649328b288c3475283dc6be4a528b541b0a17473ecc0de\", \"blockNumber\": 9503053, \"contractAddress\": null, \"cumulativeGasUsed\": \"11740510\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"gasPrice\": \"1000010\", \"gasUsed\": \"21000\", \"hash\": \"0x9fdadae34d4e05c8c55589181c48ad601f6b587bdd5c9c6972152ef047286d33\", \"index\": 98, \"logs\": [  ], \"logsBloom\": \"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\", \"root\": null, \"status\": 0, \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, code=CALL_EXCEPTION, version=6.15.0)",
+  "stack": "Error: transaction execution reverted (action=\"sendTransaction\", data=null, reason=null, invocation=null, revert=null, transaction={ \"data\": \"\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, receipt={ \"_type\": \"TransactionReceipt\", \"blobGasPrice\": null, \"blobGasUsed\": null, \"blockHash\": \"0x33e1dfaaff649e2081649328b288c3475283dc6be4a528b541b0a17473ecc0de\", \"blockNumber\": 9503053, \"contractAddress\": null, \"cumulativeGasUsed\": \"11740510\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"gasPrice\": \"1000010\", \"gasUsed\": \"21000\", \"hash\": \"0x9fdadae34d4e05c8c55589181c48ad601f6b587bdd5c9c6972152ef047286d33\", \"index\": 98, \"logs\": [  ], \"logsBloom\": \"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\", \"root\": null, \"status\": 0, \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, code=CALL_EXCEPTION, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkReceipt (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider.js:1127:13)\n    at JsonRpcProvider.txListener (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider.js:1173:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"
+}
+[2025-10-27T17:37:52.869Z] [✗ ERROR] Transaction 1 failed: transaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72", "to": "0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x33e1dfaaff649e2081649328b288c3475283dc6be4a528b541b0a17473ecc0de", "blockNumber": 9503053, "contractAddress": null, "cumulativeGasUsed": "11740510", "from": "0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72", "gasPrice": "1000010", "gasUsed": "21000", "hash": "0x9fdadae34d4e05c8c55589181c48ad601f6b587bdd5c9c6972152ef047286d33", "index": 98, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0" }, code=CALL_EXCEPTION, version=6.15.0)
+[2025-10-27T17:38:03.916Z] [✗ ERROR] Error sending transaction
+{
+  "message": "transaction execution reverted (action=\"sendTransaction\", data=null, reason=null, invocation=null, revert=null, transaction={ \"data\": \"\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, receipt={ \"_type\": \"TransactionReceipt\", \"blobGasPrice\": null, \"blobGasUsed\": null, \"blockHash\": \"0x4a0731ae94b0de217dab87ccb4bc0ae56b8d51749ff96a58300a21b3c3e66600\", \"blockNumber\": 9503054, \"contractAddress\": null, \"cumulativeGasUsed\": \"10320738\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"gasPrice\": \"1000010\", \"gasUsed\": \"21000\", \"hash\": \"0x4d5fd20418059a1880c0d63a052b4cf9bde62766fae4b94b53aa4a1165379b98\", \"index\": 79, \"logs\": [  ], \"logsBloom\": \"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\", \"root\": null, \"status\": 0, \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, code=CALL_EXCEPTION, version=6.15.0)",
+  "stack": "Error: transaction execution reverted (action=\"sendTransaction\", data=null, reason=null, invocation=null, revert=null, transaction={ \"data\": \"\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, receipt={ \"_type\": \"TransactionReceipt\", \"blobGasPrice\": null, \"blobGasUsed\": null, \"blockHash\": \"0x4a0731ae94b0de217dab87ccb4bc0ae56b8d51749ff96a58300a21b3c3e66600\", \"blockNumber\": 9503054, \"contractAddress\": null, \"cumulativeGasUsed\": \"10320738\", \"from\": \"0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72\", \"gasPrice\": \"1000010\", \"gasUsed\": \"21000\", \"hash\": \"0x4d5fd20418059a1880c0d63a052b4cf9bde62766fae4b94b53aa4a1165379b98\", \"index\": 79, \"logs\": [  ], \"logsBloom\": \"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\", \"root\": null, \"status\": 0, \"to\": \"0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0\" }, code=CALL_EXCEPTION, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at checkReceipt (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider.js:1127:13)\n    at JsonRpcProvider.txListener (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider.js:1173:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"
+}
+[2025-10-27T17:38:03.917Z] [✗ ERROR] Transaction 2 failed: transaction execution reverted (action="sendTransaction", data=null, reason=null, invocation=null, revert=null, transaction={ "data": "", "from": "0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72", "to": "0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0" }, receipt={ "_type": "TransactionReceipt", "blobGasPrice": null, "blobGasUsed": null, "blockHash": "0x4a0731ae94b0de217dab87ccb4bc0ae56b8d51749ff96a58300a21b3c3e66600", "blockNumber": 9503054, "contractAddress": null, "cumulativeGasUsed": "10320738", "from": "0xF0AAc677015AE7a3D611845a2f29B0Bff7c42b72", "gasPrice": "1000010", "gasUsed": "21000", "hash": "0x4d5fd20418059a1880c0d63a052b4cf9bde62766fae4b94b53aa4a1165379b98", "index": 79, "logs": [  ], "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "root": null, "status": 0, "to": "0x6cBB83F3E6af2CD63378EBe1FdBfa66DABf6d7A0" }, code=CALL_EXCEPTION, version=6.15.0)
+[2025-10-27T17:41:34.463Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9503071
+}
+[2025-10-27T17:41:34.465Z] [INFO] Sending 50 transactions...
+[2025-10-27T17:41:53.817Z] [INFO] [1/50] TX: 0x38a59432... | Latency: 19349ms | Gas: 21000
+[2025-10-27T17:42:02.724Z] [INFO] [2/50] TX: 0x0c0291e8... | Latency: 6904ms | Gas: 21000
+[2025-10-27T17:42:15.524Z] [INFO] [3/50] TX: 0xdd94fd67... | Latency: 10798ms | Gas: 21000
+[2025-10-27T17:42:28.222Z] [INFO] [4/50] TX: 0xc34084f8... | Latency: 10695ms | Gas: 21000
+[2025-10-27T17:42:40.793Z] [INFO] [5/50] TX: 0x1181b061... | Latency: 10570ms | Gas: 21000
+[2025-10-27T17:42:49.216Z] [INFO] [6/50] TX: 0x78d751ea... | Latency: 6420ms | Gas: 21000
+[2025-10-27T17:43:01.862Z] [INFO] [7/50] TX: 0xe4d5d1f2... | Latency: 10642ms | Gas: 21000
+[2025-10-27T17:43:14.610Z] [INFO] [8/50] TX: 0x887b9574... | Latency: 10745ms | Gas: 21000
+[2025-10-27T17:43:27.512Z] [INFO] [9/50] TX: 0x95afc9a3... | Latency: 10901ms | Gas: 21000
+[2025-10-27T17:43:40.409Z] [INFO] [10/50] TX: 0xe3b5ab20... | Latency: 10895ms | Gas: 21000
+[2025-10-27T17:43:53.010Z] [INFO] [11/50] TX: 0x92a45125... | Latency: 10598ms | Gas: 21000
+[2025-10-27T17:44:01.510Z] [INFO] [12/50] TX: 0x48a0f11f... | Latency: 6498ms | Gas: 21000
+[2025-10-27T17:44:13.696Z] [INFO] [13/50] TX: 0x9078bfc2... | Latency: 10183ms | Gas: 21000
+[2025-10-27T17:44:26.290Z] [INFO] [14/50] TX: 0xf40ff078... | Latency: 10593ms | Gas: 21000
+[2025-10-27T17:44:38.681Z] [INFO] [15/50] TX: 0xb8ea8276... | Latency: 10390ms | Gas: 21000
+[2025-10-27T17:44:50.867Z] [INFO] [16/50] TX: 0xe4f696b6... | Latency: 10183ms | Gas: 21000
+[2025-10-27T17:45:03.567Z] [INFO] [17/50] TX: 0x198a7cd6... | Latency: 10699ms | Gas: 21000
+[2025-10-27T17:45:16.350Z] [INFO] [18/50] TX: 0x5f247d6b... | Latency: 10781ms | Gas: 21000
+[2025-10-27T17:45:28.549Z] [INFO] [19/50] TX: 0x7f79be48... | Latency: 10198ms | Gas: 21000
+[2025-10-27T17:45:40.708Z] [INFO] [20/50] TX: 0xbc92f20e... | Latency: 10156ms | Gas: 21000
+[2025-10-27T17:45:49.132Z] [INFO] [21/50] TX: 0xf5824718... | Latency: 6421ms | Gas: 21000
+[2025-10-27T17:46:01.937Z] [INFO] [22/50] TX: 0x6bfbcaf1... | Latency: 10802ms | Gas: 21000
+[2025-10-27T17:46:14.427Z] [INFO] [23/50] TX: 0x95827c8e... | Latency: 10487ms | Gas: 21000
+[2025-10-27T17:46:27.090Z] [INFO] [24/50] TX: 0x00828b5a... | Latency: 10662ms | Gas: 21000
+[2025-10-27T17:46:39.656Z] [INFO] [25/50] TX: 0xb91fc013... | Latency: 10563ms | Gas: 21000
+[2025-10-27T17:46:52.622Z] [INFO] [26/50] TX: 0xab8b34c3... | Latency: 10963ms | Gas: 21000
+[2025-10-27T17:47:01.120Z] [INFO] [27/50] TX: 0x9e75da6b... | Latency: 6497ms | Gas: 21000
+[2025-10-27T17:47:13.818Z] [INFO] [28/50] TX: 0xa30a3847... | Latency: 10696ms | Gas: 21000
+[2025-10-27T17:47:26.492Z] [INFO] [29/50] TX: 0x8640b117... | Latency: 10670ms | Gas: 21000
+[2025-10-27T17:47:39.220Z] [INFO] [30/50] TX: 0xd128ee16... | Latency: 10726ms | Gas: 21000
+[2025-10-27T17:47:52.018Z] [INFO] [31/50] TX: 0xc690518b... | Latency: 10795ms | Gas: 21000
+[2025-10-27T17:48:04.916Z] [INFO] [32/50] TX: 0x4a1add61... | Latency: 10896ms | Gas: 21000
+[2025-10-27T17:48:13.211Z] [INFO] [33/50] TX: 0x7656e73a... | Latency: 6294ms | Gas: 21000
+[2025-10-27T17:48:25.905Z] [INFO] [34/50] TX: 0x2771a06b... | Latency: 10691ms | Gas: 21000
+[2025-10-27T17:48:38.607Z] [INFO] [35/50] TX: 0xce45a30b... | Latency: 10700ms | Gas: 21000
+[2025-10-27T17:48:51.201Z] [INFO] [36/50] TX: 0xb5b4ded5... | Latency: 10593ms | Gas: 21000
+[2025-10-27T17:49:04.002Z] [INFO] [37/50] TX: 0x47503696... | Latency: 10800ms | Gas: 21000
+[2025-10-27T17:49:16.700Z] [INFO] [38/50] TX: 0xa2377c12... | Latency: 10696ms | Gas: 21000
+[2025-10-27T17:49:25.303Z] [INFO] [39/50] TX: 0x7708b2ff... | Latency: 6600ms | Gas: 21000
+[2025-10-27T17:49:37.993Z] [INFO] [40/50] TX: 0x221f24de... | Latency: 10687ms | Gas: 21000
+[2025-10-27T17:49:50.801Z] [INFO] [41/50] TX: 0xac0f3c51... | Latency: 10805ms | Gas: 21000
+[2025-10-27T17:50:03.601Z] [INFO] [42/50] TX: 0x4e2f841e... | Latency: 10798ms | Gas: 21000
+[2025-10-27T17:50:16.093Z] [INFO] [43/50] TX: 0x7f88471e... | Latency: 10489ms | Gas: 21000
+[2025-10-27T17:50:28.893Z] [INFO] [44/50] TX: 0x11584a14... | Latency: 10799ms | Gas: 21000
+[2025-10-27T17:50:37.128Z] [INFO] [45/50] TX: 0x19419dd6... | Latency: 6234ms | Gas: 21000
+[2025-10-27T17:50:49.212Z] [INFO] [46/50] TX: 0xff23d112... | Latency: 10082ms | Gas: 21000
+[2025-10-27T17:51:01.281Z] [INFO] [47/50] TX: 0x2f943566... | Latency: 10067ms | Gas: 21000
+[2025-10-27T17:51:17.740Z] [INFO] [48/50] TX: 0xd6b5d40f... | Latency: 14457ms | Gas: 21000
+[2025-10-27T17:51:26.129Z] [INFO] [49/50] TX: 0x660d42ed... | Latency: 6387ms | Gas: 21000
+[2025-10-27T17:51:38.779Z] [INFO] [50/50] TX: 0x016796aa... | Latency: 10648ms | Gas: 21000
+[2025-10-27T17:51:41.415Z] [INFO] Connected to IOTA node
+{
+  "name": "IOTA 2.0 Testnet",
+  "chainId": "2304aa97",
+  "latestCheckpoint": "132755736"
+}
+[2025-10-27T17:51:41.416Z] [INFO] Sending 50 blocks...
+[2025-10-27T17:51:41.416Z] [✗ ERROR] Block 1 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.417Z] [✗ ERROR] Block 2 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.417Z] [✗ ERROR] Block 3 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.417Z] [✗ ERROR] Block 4 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.418Z] [✗ ERROR] Block 5 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.418Z] [✗ ERROR] Block 6 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.418Z] [✗ ERROR] Block 7 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.418Z] [✗ ERROR] Block 8 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.419Z] [✗ ERROR] Block 9 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.419Z] [✗ ERROR] Block 10 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.419Z] [✗ ERROR] Block 11 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.419Z] [✗ ERROR] Block 12 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.419Z] [✗ ERROR] Block 13 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.420Z] [✗ ERROR] Block 14 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.420Z] [✗ ERROR] Block 15 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.420Z] [✗ ERROR] Block 16 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.421Z] [✗ ERROR] Block 17 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.421Z] [✗ ERROR] Block 18 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.421Z] [✗ ERROR] Block 19 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.422Z] [✗ ERROR] Block 20 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.422Z] [✗ ERROR] Block 21 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.423Z] [✗ ERROR] Block 22 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.423Z] [✗ ERROR] Block 23 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.423Z] [✗ ERROR] Block 24 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.423Z] [✗ ERROR] Block 25 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.423Z] [✗ ERROR] Block 26 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.424Z] [✗ ERROR] Block 27 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.424Z] [✗ ERROR] Block 28 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.424Z] [✗ ERROR] Block 29 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.424Z] [✗ ERROR] Block 30 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.424Z] [✗ ERROR] Block 31 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.425Z] [✗ ERROR] Block 32 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.425Z] [✗ ERROR] Block 33 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.425Z] [✗ ERROR] Block 34 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.425Z] [✗ ERROR] Block 35 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.425Z] [✗ ERROR] Block 36 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 37 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 38 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 39 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 40 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 41 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.426Z] [✗ ERROR] Block 42 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 43 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 44 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 45 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 46 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 47 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.427Z] [✗ ERROR] Block 48 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.428Z] [✗ ERROR] Block 49 failed: client.submitBlock is not a function
+[2025-10-27T17:51:41.428Z] [✗ ERROR] Block 50 failed: client.submitBlock is not a function

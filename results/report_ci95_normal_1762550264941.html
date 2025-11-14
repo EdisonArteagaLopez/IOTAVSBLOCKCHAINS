@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"/>
+<title>Benchmark Report (CI95 normal)</title>
+<style>
+  body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial; margin:24px; color:#111}
+  h1{margin:0 0 8px 0} h2{margin:28px 0 6px}
+  .card{border:1px solid #eee; border-radius:12px; padding:16px; margin:12px 0; box-shadow:0 1px 2px rgba(0,0,0,0.03)}
+  .row{display:flex; gap:20px; flex-wrap:wrap}
+  .col{flex:1 1 640px}
+  code{background:#f6f8fa; padding:2px 6px; border-radius:6px}
+  table{border-collapse:collapse; width:100%}
+  th,td{border:1px solid #eee; padding:8px 10px; text-align:right}
+  th:first-child, td:first-child{text-align:left}
+</style>
+<body>
+<h1>Benchmark Report <small style="font-size:60%;color:#666">IC 95% (normal)</small></h1>
+
+<div class="row">
+  <div class="card col">
+    <h2>Latency (mean, ms) — CI95</h2>
+    
+<svg width="640" height="360" role="img" aria-label="bar chart">
+  <rect x="0" y="0" width="640" height="360" fill="#fff" stroke="#eee"/>
+  <line x1="50" y1="310" x2="590" y2="310" stroke="#444"/>
+  <line x1="50" y1="50" x2="50" y2="310" stroke="#444"/>
+  
+        <rect x="95" y="52.03164281190948" width="180" height="257.9683571880905" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="185" y1="54.063285623818956" x2="185" y2="50" stroke="#111" stroke-width="2"/>
+        <line x1="122" y1="54.063285623818956" x2="248" y2="54.063285623818956" stroke="#111" stroke-width="2"/>
+        <line x1="122" y1="50" x2="248" y2="50" stroke="#111" stroke-width="2"/>
+        <text x="185" y="328" font-size="12" text-anchor="middle">Sepolia</text>
+        <text x="185" y="46.03164281190948" font-size="11" text-anchor="middle">27269.36</text>
+      
+
+        <rect x="365" y="299.73818670808" width="180" height="10.26181329192002" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="455" y1="299.9297686987704" x2="455" y2="299.54660471738964" stroke="#111" stroke-width="2"/>
+        <line x1="392" y1="299.9297686987704" x2="518" y2="299.9297686987704" stroke="#111" stroke-width="2"/>
+        <line x1="392" y1="299.54660471738964" x2="518" y2="299.54660471738964" stroke="#111" stroke-width="2"/>
+        <text x="455" y="328" font-size="12" text-anchor="middle">IOTA</text>
+        <text x="455" y="293.73818670808" font-size="11" text-anchor="middle">1084.76</text>
+      
+  <text x="50" y="40" font-size="13" text-anchor="start">ms</text>
+</svg>
+  </div>
+  <div class="card col">
+    <h2>Latency (P95, ms) — CI95</h2>
+    
+<svg width="640" height="360" role="img" aria-label="bar chart">
+  <rect x="0" y="0" width="640" height="360" fill="#fff" stroke="#eee"/>
+  <line x1="50" y1="310" x2="590" y2="310" stroke="#444"/>
+  <line x1="50" y1="50" x2="50" y2="310" stroke="#444"/>
+  
+        <rect x="95" y="62.53540122126594" width="180" height="247.46459877873406" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="185" y1="75.07080244253189" x2="185" y2="50" stroke="#111" stroke-width="2"/>
+        <line x1="122" y1="75.07080244253189" x2="248" y2="75.07080244253189" stroke="#111" stroke-width="2"/>
+        <line x1="122" y1="50" x2="248" y2="50" stroke="#111" stroke-width="2"/>
+        <text x="185" y="328" font-size="12" text-anchor="middle">Sepolia</text>
+        <text x="185" y="56.53540122126594" font-size="11" text-anchor="middle">42238.90</text>
+      
+
+        <rect x="365" y="298.31308623937133" width="180" height="11.68691376062867" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="455" y1="298.65475797749264" x2="455" y2="297.97141450125" stroke="#111" stroke-width="2"/>
+        <line x1="392" y1="298.65475797749264" x2="518" y2="298.65475797749264" stroke="#111" stroke-width="2"/>
+        <line x1="392" y1="297.97141450125" x2="518" y2="297.97141450125" stroke="#111" stroke-width="2"/>
+        <text x="455" y="328" font-size="12" text-anchor="middle">IOTA</text>
+        <text x="455" y="292.31308623937133" font-size="11" text-anchor="middle">1994.80</text>
+      
+  <text x="50" y="40" font-size="13" text-anchor="start">ms</text>
+</svg>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Throughput (TPS) — CI95</h2>
+  
+<svg width="720" height="360" role="img" aria-label="bar chart">
+  <rect x="0" y="0" width="720" height="360" fill="#fff" stroke="#eee"/>
+  <line x1="50" y1="310" x2="670" y2="310" stroke="#444"/>
+  <line x1="50" y1="50" x2="50" y2="310" stroke="#444"/>
+  
+        <rect x="101.66666666666667" y="298.4781063629511" width="206.66666666666666" height="11.52189363704889" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="205" y1="299.14031164756244" x2="205" y2="297.8159010783397" stroke="#111" stroke-width="2"/>
+        <line x1="132.66666666666669" y1="299.14031164756244" x2="277.3333333333333" y2="299.14031164756244" stroke="#111" stroke-width="2"/>
+        <line x1="132.66666666666669" y1="297.8159010783397" x2="277.3333333333333" y2="297.8159010783397" stroke="#111" stroke-width="2"/>
+        <text x="205" y="328" font-size="12" text-anchor="middle">Sepolia</text>
+        <text x="205" y="292.4781063629511" font-size="11" text-anchor="middle">13.24</text>
+      
+
+        <rect x="411.6666666666667" y="59.77655617256201" width="206.66666666666666" height="250.223443827438" fill="rgba(33,150,243,0.85)"></rect>
+        <line x1="515" y1="69.55311234512402" x2="515" y2="50" stroke="#111" stroke-width="2"/>
+        <line x1="442.6666666666667" y1="69.55311234512402" x2="587.3333333333334" y2="69.55311234512402" stroke="#111" stroke-width="2"/>
+        <line x1="442.6666666666667" y1="50" x2="587.3333333333334" y2="50" stroke="#111" stroke-width="2"/>
+        <text x="515" y="328" font-size="12" text-anchor="middle">IOTA</text>
+        <text x="515" y="53.77655617256201" font-size="11" text-anchor="middle">287.55</text>
+      
+  <text x="50" y="40" font-size="13" text-anchor="start">TPS</text>
+</svg>
+</div>
+
+<div class="card">
+  <h2>Scalability — TPS vs Batch (CI95)</h2>
+  
+<svg width="720" height="420" role="img" aria-label="line chart with CI band">
+  <rect x="0" y="0" width="720" height="420" fill="#fff" stroke="#eee"/>
+  <line x1="50" y1="370" x2="670" y2="370" stroke="#444"/>
+  <line x1="50" y1="50" x2="50" y2="370" stroke="#444"/>
+  
+        <polyline fill="none" stroke="#1e88e5" stroke-width="2" points="50,369.9627404637117 55.585585585585584,369.7570085815268 111.44144144144144,368.1295887199516 670,354.9615720816508"></polyline>
+        <polygon fill="#1e88e522" stroke="none" points="50,369.9597938929558 55.585585585585584,369.74415397852385 111.44144144144144,368.0390246759922 670,354.42171494111454 670,355.501429222187 111.44144144144144,368.22015276391096 55.585585585585584,369.7698631845298 50,369.9656870344677"></polygon>
+        <circle cx="50" cy="369.9627404637117" r="3" fill="#1e88e5"></circle><circle cx="55.585585585585584" cy="369.7570085815268" r="3" fill="#1e88e5"></circle><circle cx="111.44144144144144" cy="368.1295887199516" r="3" fill="#1e88e5"></circle><circle cx="670" cy="354.9615720816508" r="3" fill="#1e88e5"></circle>
+        <text x="60" y="22" font-size="12" fill="#1e88e5">● SEPOLIA</text>
+      
+
+        <polyline fill="none" stroke="#43a047" stroke-width="2" points="50,369.21711897342516 55.585585585585584,364.7275604835174 111.44144144144144,330.651761484945 670,58.71202059547818"></polyline>
+        <polygon fill="#43a04722" stroke="none" points="50,369.15829501562797 55.585585585585584,364.42936711917946 111.44144144144144,329.3697066984412 670,50 670,67.42404119095636 111.44144144144144,331.9338162714488 55.585585585585584,365.0257538478553 50,369.2759429312223"></polygon>
+        <circle cx="50" cy="369.21711897342516" r="3" fill="#43a047"></circle><circle cx="55.585585585585584" cy="364.7275604835174" r="3" fill="#43a047"></circle><circle cx="111.44144144144144" cy="330.651761484945" r="3" fill="#43a047"></circle><circle cx="670" cy="58.71202059547818" r="3" fill="#43a047"></circle>
+        <text x="60" y="36" font-size="12" fill="#43a047">● IOTA</text>
+      
+  <text x="50" y="388" font-size="12" text-anchor="middle">10</text>
+<text x="55.585585585585584" y="388" font-size="12" text-anchor="middle">100</text>
+<text x="111.44144144144144" y="388" font-size="12" text-anchor="middle">1000</text>
+<text x="670" y="388" font-size="12" text-anchor="middle">10000</text>
+  <text x="50" y="40" font-size="13" text-anchor="start">TPS</text>
+  <text x="360" y="24" font-size="16" text-anchor="middle">TPS vs Batch</text>
+</svg>
+</div>
+
+<div class="card">
+  <h2>Scalability — Avg Latency vs Batch (CI95)</h2>
+  
+<svg width="720" height="420" role="img" aria-label="line chart with CI band">
+  <rect x="0" y="0" width="720" height="420" fill="#fff" stroke="#eee"/>
+  <line x1="50" y1="370" x2="670" y2="370" stroke="#444"/>
+  <line x1="50" y1="50" x2="50" y2="370" stroke="#444"/>
+  
+        <polyline fill="none" stroke="#1e88e5" stroke-width="2" points="50,58.75919514494012 55.585585585585584,60.08553740698039 111.44144144144144,57.766828594652736 670,54.23429412931529"></polyline>
+        <polygon fill="#1e88e522" stroke="none" points="50,50 55.585585585585584,57.99724547987927 111.44144144144144,56.930175652276375 670,53.97707870092802 670,54.49150955770256 111.44144144144144,58.6034815370291 55.585585585585584,62.17382933408146 50,67.5183902898803"></polygon>
+        <circle cx="50" cy="58.75919514494012" r="3" fill="#1e88e5"></circle><circle cx="55.585585585585584" cy="60.08553740698039" r="3" fill="#1e88e5"></circle><circle cx="111.44144144144144" cy="57.766828594652736" r="3" fill="#1e88e5"></circle><circle cx="670" cy="54.23429412931529" r="3" fill="#1e88e5"></circle>
+        <text x="60" y="22" font-size="12" fill="#1e88e5">● SEPOLIA</text>
+      
+
+        <polyline fill="none" stroke="#43a047" stroke-width="2" points="50,357.4517993484371 55.585585585585584,357.3844579417394 111.44144144144144,357.50203096718707 670,356.93563557836677"></polyline>
+        <polygon fill="#43a04722" stroke="none" points="50,356.7802382781385 55.585585585585584,357.1614114601747 111.44144144144144,357.4408904669408 670,356.9016968786266 670,356.969574278107 111.44144144144144,357.56317146743334 55.585585585585584,357.6075044233042 50,358.1233604187357"></polygon>
+        <circle cx="50" cy="357.4517993484371" r="3" fill="#43a047"></circle><circle cx="55.585585585585584" cy="357.3844579417394" r="3" fill="#43a047"></circle><circle cx="111.44144144144144" cy="357.50203096718707" r="3" fill="#43a047"></circle><circle cx="670" cy="356.93563557836677" r="3" fill="#43a047"></circle>
+        <text x="60" y="36" font-size="12" fill="#43a047">● IOTA</text>
+      
+  <text x="50" y="388" font-size="12" text-anchor="middle">10</text>
+<text x="55.585585585585584" y="388" font-size="12" text-anchor="middle">100</text>
+<text x="111.44144144144144" y="388" font-size="12" text-anchor="middle">1000</text>
+<text x="670" y="388" font-size="12" text-anchor="middle">10000</text>
+  <text x="50" y="40" font-size="13" text-anchor="start">ms</text>
+  <text x="360" y="24" font-size="16" text-anchor="middle">Latency vs Batch</text>
+</svg>
+</div>
+
+</body>
+</html>

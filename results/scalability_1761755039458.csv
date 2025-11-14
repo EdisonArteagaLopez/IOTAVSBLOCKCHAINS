@@ -1,0 +1,6 @@
+Batch Size,Sepolia TPS,Sepolia Latency (ms),Sepolia Success (%),IOTA TPS,IOTA Latency (ms),IOTA Success (%)
+10,,,,68.97,100.20,100.00
+50,,,,333.33,104.70,100.00
+100,,,,671.14,100.58,100.00
+500,,,,3205.13,98.68,100.00
+1000,,,,6369.43,100.46,100.00

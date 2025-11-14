@@ -1,0 +1,178 @@
+[2025-10-26T19:16:40.168Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:17:19.572Z] [✗ ERROR] Error getting block number
+{
+  "message": "server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)",
+  "stack": "Error: server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at FetchResponse.assertOk (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/fetch.js:834:9)\n    at JsonRpcProvider._send (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:911:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:277:40"
+}
+[2025-10-26T19:17:19.572Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-26T19:17:19.572Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-26T19:17:19.573Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:17:19.882Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:17:19.882Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:17:19.883Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:23:16.989Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:23:56.257Z] [✗ ERROR] Error getting block number
+{
+  "message": "server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)",
+  "stack": "Error: server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at FetchResponse.assertOk (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/fetch.js:834:9)\n    at JsonRpcProvider._send (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:911:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:277:40"
+}
+[2025-10-26T19:23:56.257Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-26T19:23:56.257Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-26T19:23:56.257Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:23:56.588Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:23:56.588Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:23:56.588Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:24:25.181Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:25:04.471Z] [✗ ERROR] Error getting block number
+{
+  "message": "server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)",
+  "stack": "Error: server response 522 <none> (request={  }, response={  }, error=null, info={ \"requestUrl\": \"https://rpc.sepolia.org\", \"responseBody\": \"error code: 522\", \"responseStatus\": \"522 <none>\" }, code=SERVER_ERROR, version=6.15.0)\n    at makeError (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:132:21)\n    at assert (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/errors.js:151:15)\n    at FetchResponse.assertOk (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/utils/fetch.js:834:9)\n    at JsonRpcProvider._send (file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:911:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/carlos/iota-vs-blockchain/node_modules/ethers/lib.esm/providers/provider-jsonrpc.js:277:40"
+}
+[2025-10-26T19:25:04.471Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-26T19:25:04.471Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-26T19:25:04.471Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:25:04.781Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:25:04.781Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:25:04.781Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:38:46.885Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:38:47.228Z] [✗ ERROR] Error getting block number
+{
+  "message": "getaddrinfo ENOTFOUND sepolia.infura.io",
+  "stack": "Error: getaddrinfo ENOTFOUND sepolia.infura.io\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:120:26)"
+}
+[2025-10-26T19:38:47.228Z] [✗ ERROR] Cannot connect to Ethereum network
+[2025-10-26T19:38:47.228Z] [✗ ERROR] ✗ Could not connect to Sepolia
+[2025-10-26T19:38:47.229Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:38:47.338Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:38:47.338Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:38:47.339Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:39:20.190Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:39:21.600Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496468
+}
+[2025-10-26T19:39:21.601Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:39:21.909Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:39:22.318Z] [INFO]   Current Gas Price: 1000010 wei
+[2025-10-26T19:39:23.400Z] [INFO]   Current Block: 9496468
+[2025-10-26T19:39:23.401Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:39:23.577Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:39:23.578Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:39:23.578Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:40:12.332Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:40:13.386Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496472
+}
+[2025-10-26T19:40:13.386Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:40:13.716Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:40:14.205Z] [INFO]   Current Gas Price: 1000011 wei
+[2025-10-26T19:40:15.230Z] [INFO]   Current Block: 9496473
+[2025-10-26T19:40:15.231Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:40:15.436Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:40:15.437Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:40:15.437Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:41:14.414Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:41:15.749Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496478
+}
+[2025-10-26T19:41:15.750Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:41:15.968Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:41:16.379Z] [INFO]   Current Gas Price: 1000010 wei
+[2025-10-26T19:41:17.213Z] [INFO]   Current Block: 9496478
+[2025-10-26T19:41:17.214Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:41:17.351Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:41:17.352Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:41:17.352Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:43:58.948Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:44:00.131Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496491
+}
+[2025-10-26T19:44:00.131Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:44:00.442Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:44:01.004Z] [INFO]   Current Gas Price: 1000009 wei
+[2025-10-26T19:44:01.950Z] [INFO]   Current Block: 9496492
+[2025-10-26T19:44:01.951Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:44:02.051Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:44:02.052Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:44:02.052Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:51:10.165Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:51:11.858Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496527
+}
+[2025-10-26T19:51:11.859Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:51:12.138Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:51:12.577Z] [INFO]   Current Gas Price: 1000010 wei
+[2025-10-26T19:51:13.572Z] [INFO]   Current Block: 9496527
+[2025-10-26T19:51:13.573Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:51:13.686Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "getaddrinfo ENOTFOUND api.testnet.shimmer.network",
+  "stack": "Error: getaddrinfo ENOTFOUND api.testnet.shimmer.network\n    at AxiosError.from (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/AxiosError.js:96:14)\n    at RedirectableRequest.handleRequestError (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:638:25)\n    at RedirectableRequest.emit (node:events:536:35)\n    at eventHandlers.<computed> (/home/carlos/iota-vs-blockchain/node_modules/follow-redirects/index.js:49:24)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:51:13.686Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:51:13.687Z] [✗ ERROR] ✗ Could not connect to IOTA
+[2025-10-26T19:51:59.375Z] [INFO] Testing Sepolia connection...
+[2025-10-26T19:52:00.391Z] [INFO] Connected to Ethereum network
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "blockNumber": 9496531
+}
+[2025-10-26T19:52:00.391Z] [✓ SUCCESS] ✓ Sepolia connection successful
+[2025-10-26T19:52:00.613Z] [INFO]   Balance: 0.0 ETH
+[2025-10-26T19:52:00.986Z] [INFO]   Current Gas Price: 1000011 wei
+[2025-10-26T19:52:01.920Z] [INFO]   Current Block: 9496531
+[2025-10-26T19:52:01.921Z] [INFO] Testing IOTA connection...
+[2025-10-26T19:52:02.419Z] [✗ ERROR] Error getting IOTA node info
+{
+  "message": "Request failed with status code 404",
+  "stack": "AxiosError: Request failed with status code 404\n    at settle (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/settle.js:19:12)\n    at BrotliDecompress.handleStreamEnd (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/adapters/http.js:617:11)\n    at BrotliDecompress.emit (node:events:536:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)\n    at Axios.request (file:///home/carlos/iota-vs-blockchain/node_modules/axios/lib/core/Axios.js:45:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async IOTAClient.getNodeInfo (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:23:24)\n    at async IOTAClient.isConnected (file:///home/carlos/iota-vs-blockchain/src/iota/client.js:33:20)\n    at async testConnections (file:///home/carlos/iota-vs-blockchain/test-connection.js:41:27)"
+}
+[2025-10-26T19:52:02.420Z] [✗ ERROR] Cannot connect to IOTA node
+[2025-10-26T19:52:02.420Z] [✗ ERROR] ✗ Could not connect to IOTA
