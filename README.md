@@ -68,24 +68,28 @@ This runs all benchmark tests **multiple times**, each with a fixed seed, enabli
 - Noise reduction  
 - Statistical confidence  
 
-### **95% Confidence Interval (Normal Distribution)**
+## 📐 95% Confidence Interval (Normal Distribution)
 
-$begin:math:display$
-CI95 \= \\bar\{x\} \\pm 1\.96 \\cdot \\frac\{s\}\{\\sqrt\{n\}\}
-$end:math:display$
+The 95% confidence interval is computed as:
+
+$$
+CI_{95} = \bar{x} \pm 1.96 \cdot \frac{s}{\sqrt{n}}
+$$
 
 Where:
-- $begin:math:text$ \\bar\{x\} $end:math:text$ = sample mean  
-- $begin:math:text$ s $end:math:text$ = standard deviation  
-- $begin:math:text$ n $end:math:text$ = number of replications  
+
+- **$\bar{x}$** = sample mean  
+- **$s$** = sample standard deviation  
+- **$n$** = number of replications  
 
 Exported metrics include:
+
 - `mean`  
 - `variance`  
 - `std`  
 - `ci95_lower`  
 - `ci95_upper`  
-- `n`
+- `n`  
 
 ---
 
