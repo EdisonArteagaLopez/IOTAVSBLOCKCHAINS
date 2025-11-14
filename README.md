@@ -1,7 +1,3 @@
-Here is the full English version of the README — clear, professional, and ready to use:
-
-⸻
-
 📘 IOTA vs Blockchain – Benchmark Suite (Simulated)
 
 This project implements a complete reproducible benchmark suite to compare the performance of IOTA and Ethereum/Sepolia under a fully simulated environment, eliminating network noise and enabling rigorous statistical analysis.
